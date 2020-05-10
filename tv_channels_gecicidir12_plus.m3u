@@ -1,0 +1,2177 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="bilgi ekrani" tvg-logo="" group-title="H - EBA TV #EVDEKAL",bilgi ekrani
+http://penaiptv.com:8080/gecicidir12/heraiptv123/168642
+#EXTINF:-1 tvg-id="" tvg-name="EBA İLKOKUL" tvg-logo="" group-title="H - EBA TV #EVDEKAL",EBA İLKOKUL
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147389
+#EXTINF:-1 tvg-id="" tvg-name="EBA ORTAOKUL" tvg-logo="" group-title="H - EBA TV #EVDEKAL",EBA ORTAOKUL
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147388
+#EXTINF:-1 tvg-id="" tvg-name="EBA LİSE " tvg-logo="" group-title="H - EBA TV #EVDEKAL",EBA LİSE 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149119
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 | HD " tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=586" group-title="TR - Spor ",beIN Sports 1 | HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147368
+#EXTINF:-1 tvg-id="beIN SPORTS 2-TR" tvg-name="beIN Sports 2 | HD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=587" group-title="TR - Spor ",beIN Sports 2 | HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147379
+#EXTINF:-1 tvg-id="beIN SPORTS 3-TR" tvg-name="beIN Sports 3 | HD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=588" group-title="TR - Spor ",beIN Sports 3 | HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147380
+#EXTINF:-1 tvg-id="beIN SPORTS 4-TR" tvg-name="beIN Sports 4 | HD " tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=589" group-title="TR - Spor ",beIN Sports 4 | HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147381
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1 HD-TR" tvg-name="beIN Sports Max 1 | HD" tvg-logo="" group-title="TR - Spor ",beIN Sports Max 1 | HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147382
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 2 HD-TR" tvg-name="beIN Sports Max 2 | HD" tvg-logo="" group-title="TR - Spor ",beIN Sports Max 2 | HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147383
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 | UHD" tvg-logo="" group-title="TR - Spor ",beIN Sports 1 | UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147377
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 | UHD" tvg-logo="" group-title="TR - Spor ",beIN Sports 2 | UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147363
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN Sports 3 | UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=588" group-title="TR - Spor ",beIN Sports 3 | UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147364
+#EXTINF:-1 tvg-id="beIN SPORTS 4-TR" tvg-name="beIN Sports 4 | UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=589" group-title="TR - Spor ",beIN Sports 4 | UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147365
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1 HD-TR" tvg-name="beIN Sports Max 1 | UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=590" group-title="TR - Spor ",beIN Sports Max 1 | UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147366
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 2 HD-TR" tvg-name="beIN Sports Max 2 | UHD " tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=591" group-title="TR - Spor ",beIN Sports Max 2 | UHD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147367
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Haber | HD" tvg-logo="" group-title="TR - Spor ",beIN Sports Haber | HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147394
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Haber | UHD " tvg-logo="" group-title="TR - Spor ",beIN Sports Haber | UHD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147390
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 1 UHD" tvg-logo="" group-title="TR - Spor ",Tivibu Spor 1 UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147370
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 2 UHD" tvg-logo="" group-title="TR - Spor ",Tivibu Spor 2 UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147371
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 3 UHD" tvg-logo="" group-title="TR - Spor ",Tivibu Spor 3 UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147372
+#EXTINF:-1 tvg-id="S SPORT HD-TR" tvg-name="S Sport" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="TR - Spor ",S Sport
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147373
+#EXTINF:-1 tvg-id="" tvg-name="S sport 2 HD" tvg-logo="" group-title="TR - Spor ",S sport 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147395
+#EXTINF:-1 tvg-id="" tvg-name="S Sport 4K - 50 FPS" tvg-logo="" group-title="TR - Spor ",S Sport 4K - 50 FPS
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147401
+#EXTINF:-1 tvg-id="" tvg-name="Smart Spor 2 (KAPALI)" tvg-logo="" group-title="TR - Spor ",Smart Spor 2 (KAPALI)
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147408
+#EXTINF:-1 tvg-id="Smart Sport HD-TR" tvg-name="Smart Spor 1" tvg-logo="https://i0.wp.com/365spor.com/wp-content/uploads/2019/07/smart-spor.png?fit=800%2C300&ssl=1" group-title="TR - Spor ",Smart Spor 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147374
+#EXTINF:-1 tvg-id="" tvg-name="Smart Spor 1 | Yedek" tvg-logo="" group-title="TR - Spor ",Smart Spor 1 | Yedek
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147407
+#EXTINF:-1 tvg-id="NBA TV HD-TR" tvg-name="NBA TV HD 4K" tvg-logo="" group-title="TR - Spor ",NBA TV HD 4K
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147375
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD-TR" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="TR - Spor ",EUROSPORT 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147391
+#EXTINF:-1 tvg-id="EUROSPORT 2 TR HD-TR" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="TR - Spor ",EUROSPORT 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147392
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR 2 HD " tvg-logo="" group-title="TR - Spor ",TRT SPOR 2 HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147412
+#EXTINF:-1 tvg-id="" tvg-name="ASPOR UHD" tvg-logo="" group-title="TR - Spor ",ASPOR UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147414
+#EXTINF:-1 tvg-id="" tvg-name="GSTV HD" tvg-logo="" group-title="TR - Spor ",GSTV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147558
+#EXTINF:-1 tvg-id="" tvg-name="FBTV HD" tvg-logo="" group-title="TR - Spor ",FBTV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147559
+#EXTINF:-1 tvg-id="" tvg-name="Yedek | bein 3 HD " tvg-logo="" group-title="TR - Spor ",Yedek | bein 3 HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147399
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS. TV " tvg-logo="" group-title="TR - Spor ",SPORTS. TV 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147547
+#EXTINF:-1 tvg-id="" tvg-name="TJK TV " tvg-logo="" group-title="TR - Spor ",TJK TV 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147549
+#EXTINF:-1 tvg-id="" tvg-name="TAY TV HD" tvg-logo="" group-title="TR - Spor ",TAY TV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147548
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor 1" tvg-logo="" group-title="TR - Spor ",TRT Spor 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149096
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX HD " tvg-logo="" group-title="TR - Spor ",FIGHT BOX HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147434
+#EXTINF:-1 tvg-id="beIN SPORTS 1-TR" tvg-name="HERA IPTV 4K | VIP yayıncıya bağlı" tvg-logo="https://www.sonteklif.net/img/uploads33/1017128/14745106_2_b.png" group-title="TR - Spor ",HERA IPTV 4K | VIP yayıncıya bağlı
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147362
+#EXTINF:-1 tvg-id="" tvg-name="beIN sport 1 HD - almanya yedek" tvg-logo="" group-title="TR - Spor ",beIN sport 1 HD - almanya yedek
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147384
+#EXTINF:-1 tvg-id="beIN İZ HD-TR" tvg-name="beIN İZ HD " tvg-logo="" group-title="TR - Belgesel",beIN İZ HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147438
+#EXTINF:-1 tvg-id="beIN GURME HD-TR" tvg-name="beIN GÜRME HD " tvg-logo="" group-title="TR - Belgesel",beIN GÜRME HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147432
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="24 KITCHEN HD" tvg-logo="" group-title="TR - Belgesel",24 KITCHEN HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147430
+#EXTINF:-1 tvg-id="BBC EARTH HD-TR" tvg-name="BBC EARTH HD" tvg-logo="" group-title="TR - Belgesel",BBC EARTH HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147422
+#EXTINF:-1 tvg-id="Viasat History HD-TR" tvg-name="VIASAT HISTORY HD" tvg-logo="" group-title="TR - Belgesel",VIASAT HISTORY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147416
+#EXTINF:-1 tvg-id="History HD-TR" tvg-name="HISTORY HD" tvg-logo="" group-title="TR - Belgesel",HISTORY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147417
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC-TR" tvg-name="National Geographic" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=246" group-title="TR - Belgesel",National Geographic
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147419
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE HD-TR" tvg-name="Nat Geo People" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=143" group-title="TR - Belgesel",Nat Geo People
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147418
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD-TR" tvg-name="National Geographic Wild" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=247" group-title="TR - Belgesel",National Geographic Wild
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147420
+#EXTINF:-1 tvg-id="TV 8,5 HD-TR" tvg-name="Animal Planet UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=281" group-title="TR - Belgesel",Animal Planet UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147421
+#EXTINF:-1 tvg-id="idx.tr" tvg-name="IDX Investigation Discovery " tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=284" group-title="TR - Belgesel",IDX Investigation Discovery 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147423
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD-TR" tvg-name="Discovery Channel" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=435" group-title="TR - Belgesel",Discovery Channel
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147424
+#EXTINF:-1 tvg-id="Discovery Science HD-TR" tvg-name="Discovery Science" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=282" group-title="TR - Belgesel",Discovery Science
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147425
+#EXTINF:-1 tvg-id="Discovery Hd Showcase-TR" tvg-name="Discovery Showcase" tvg-logo="" group-title="TR - Belgesel",Discovery Showcase
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147426
+#EXTINF:-1 tvg-id="24.tr" tvg-name="DTX TURBO HD " tvg-logo="" group-title="TR - Belgesel",DTX TURBO HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147440
+#EXTINF:-1 tvg-id="docubox.tr" tvg-name="Docubox HD " tvg-logo="" group-title="TR - Belgesel",Docubox HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147427
+#EXTINF:-1 tvg-id="DMAX HD-TR" tvg-name="DMAX HD" tvg-logo="" group-title="TR - Belgesel",DMAX HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147431
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE  | 4K" tvg-logo="" group-title="TR - Belgesel",LOVE NATURE  | 4K
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147415
+#EXTINF:-1 tvg-id="DA VINCI LEARNING HD-TR" tvg-name="DA VINCI LEARNING" tvg-logo="" group-title="TR - Belgesel",DA VINCI LEARNING
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147433
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Outdoor HD " tvg-logo="" group-title="TR - Belgesel",Outdoor HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147428
+#EXTINF:-1 tvg-id="TV 8,5 HD-TR" tvg-name="FAST FUN " tvg-logo="" group-title="TR - Belgesel",FAST FUN 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147436
+#EXTINF:-1 tvg-id="TLC-TR" tvg-name="TLC HD " tvg-logo="" group-title="TR - Belgesel",TLC HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147439
+#EXTINF:-1 tvg-id="" tvg-name="TREK HD KAPALI" tvg-logo="" group-title="TR - Belgesel",TREK HD KAPALI
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147442
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE EURO HD" tvg-logo="" group-title="TR - Belgesel",DISCOVERY SCIENCE EURO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147441
+#EXTINF:-1 tvg-id="" tvg-name="YABAN TV" tvg-logo="" group-title="TR - Belgesel",YABAN TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147555
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN HD " tvg-logo="" group-title="TR - Belgesel",TRACE URBAN HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147429
+#EXTINF:-1 tvg-id="" tvg-name="WOMAN" tvg-logo="" group-title="TR - Belgesel",WOMAN
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147447
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD " tvg-logo="" group-title="TR - Belgesel",FASHION TV HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147435
+#EXTINF:-1 tvg-id="" tvg-name="Science&Vie UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=141" group-title="TR - Belgesel",Science&Vie UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147443
+#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO HD KAPALI" tvg-logo="" group-title="TR - Belgesel",AUTOMOTO HD KAPALI
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147444
+#EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=139" group-title="TR - Belgesel",Animaux
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147445
+#EXTINF:-1 tvg-id="" tvg-name="Chasse & Pêche" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=226" group-title="TR - Belgesel",Chasse & Pêche
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147448
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE HD-TR" tvg-name="beIN MOVIES PREMIERE" tvg-logo="" group-title="TR - Sinema",beIN MOVIES PREMIERE
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147477
+#EXTINF:-1 tvg-id="beIN MOVIES PREMIERE 2 HD-TR" tvg-name="beIN MOVIES PREMIERE 2 " tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/271/Image/70x46_premier_hd_agu2017.png" group-title="TR - Sinema",beIN MOVIES PREMIERE 2 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147478
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION HD-TR" tvg-name="beIN MOVIES ACTION " tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/453/Image/70x46_action_hd_agu2017.png" group-title="TR - Sinema",beIN MOVIES ACTION 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147479
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION 2 HD-TR" tvg-name="beIN MOVIES ACTION 2" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/454/Image/70x46_action2_hd_agu2017.png" group-title="TR - Sinema",beIN MOVIES ACTION 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147480
+#EXTINF:-1 tvg-id="beIN MOVIES STARS HD-TR" tvg-name="beIN MOVIES STARS" tvg-logo="" group-title="TR - Sinema",beIN MOVIES STARS
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147481
+#EXTINF:-1 tvg-id="beIN MOVIES TURK HD-TR" tvg-name="beIN MOVIES TURK" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/381/Image/70x46_turk_hd_agu2017.png" group-title="TR - Sinema",beIN MOVIES TURK
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147482
+#EXTINF:-1 tvg-id="beIN MOVIES FAMILY HD-TR" tvg-name="beIN MOVIES FAMILY HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/335/Image/70x46_family_hd_agu2017.png" group-title="TR - Sinema",beIN MOVIES FAMILY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147483
+#EXTINF:-1 tvg-id="beIN SERIES SCI-FI HD-TR" tvg-name="beIN Series Sci-Fi" tvg-logo="https://www.tvyayinakisi.com/storage/logos/SRiwTQMGszsAjXdhuJ5xmypPUh7eavnbyJ2dCBG8.png" group-title="TR - Sinema",beIN Series Sci-Fi
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147484
+#EXTINF:-1 tvg-id="beIN SERIES VICE HD-TR" tvg-name="beIN Series Vice " tvg-logo="https://www.tvyayinakisi.com/storage/logos/SRiwTQMGszsAjXdhuJ5xmypPUh7eavnbyJ2dCBG8.png+zp59IiqwmSka1S/ilWg6xmJHQz6h9m7eQdqBtYtd6NVfl7UH/OamyhdmLN3D2kG1i1LHcxBtRrcZdaf86qdmN1w2KtlC7QNL2kJ3kW1n5hlSCXr+Qi17R/krVOgMxX1fCdx5ehqmrJRF8lOQRP2DOx8gbeHpGV8gNekInTzG9UmNgvsK6yh9PpVkfNrQ/mg5+y1olVX4zsBb2TVR/GtmjaXF1fX3XOFtZ1p7CmnJ3jR94WduxXqPpYBL2JtXfOjTWO7Up6D6vJi5K/gTDpLpIdHSDvgKOciJBojeVcVPDi4AlljMhwPZPkhNGwiTW8wXtp4bS64NtZe2Upl/YYgvOMi7Cotvacy8IdXSM5+AMeHgQjaHSd5DH2MFZcPgjTUsLbzayE8QZe1newBstJW0UFqU5wMsMeJs5cj4d17wif6shKkVV5cAjM4uDy4YqV3WRlHP6sWAktezxCN7NKfpHHwFMm8fLVxP3ZHHvPJTx7lVgDaIL61sJFOKm2sXqQqV+xEjZCNuY3szJW5he6AfMRaJwtl5eeUwluzcyK90MLMGxM+XixibUcNIh5xwonzSzbzjpml6LlG9xsTmh3dTgvZT6zKs8Ji5+2HAP8JtYllKxY0WAd38zqL54iygiubto3e+3i2nLI8lasA6T9VJ5Cx+esKSCvWAt43W7Vq+DjKqZXknSDZ+H6aJbTaVizZgEug8bxU1Zq2/ZHU61ZKVY6xWZ7pZfWGg8BZy+npG19Kvb6khzesWJwZCfX/DwOQCR4Fwfw4lpsjwPrfACe9liXUzQw7eU5K+L1O9YMkykq9M9ZP4qvhAmwn4ptjK+6LK99aMUql0wTZ6n+PWs2glKYM/ezQjqYIlDYOhdowd7ZQMHDoZySx1SHs/TvfCudANyrvpuVl6VsOpPmwm2smX/vW1NZV4Ku1R1v4z1rVuN1Gn0vK0ztKk6Klm3NXSBENqviMFBR6Ya71S1gxPmI1WCQTRnLXazpqsrRzTkhOAc7XjHpGMUCWzUQDs1oPmSFg4wwnD5v5i7mA1aIykar3J+rmA39AcunqzTUcQzuwGOvUqjmrbnBGoMstSalNmzNSkUIoYk2ydoQRkklHLDlGMbWy4vGzIa+yyC4OKtQg2ri86wlv2jcDfCg649tIJocXLIIo8crdytWUCfnMxEmW+kAiz/YRWlIt/SIIBmd5lxa95Yyl/wkEO7rFDg1pLIEs4aPWWGmgyBLSyRlfl0XbBZxu6d51iWokAqXd10oJCcnnwrwxoeuhsOEy5By7Q9ZYf5FdQHqKTm7n5VeOvPt3lvfwtOBpwKPyHfn4q+2DJ8ePC1WzFOqh2EHCBKcXnmeDiXHCYOL5RbuZqVXKegnfULTj16WpbDdVfzSdSskkb6tl5yrFgTCQS2lW7XsehgpfTh9/X5Wd3m6z3uaZs6FV0fx8GVxncZ8NPL66/ey0uLq5n9z//UeVspX3crfznrRY/uJyPU8v2I97Mqate4gt4kQtlqb1IrV5btK4XS1TT7qVV+zlhvv+leFrnOfu2TFyjZb0y8JeSTrPcHvV+TF+lex4mroZYIGlWBcQ6XzO3jD55yYng7id5ZkD95QdpXh7cXKIBFwbSGW3j1UrFNarEZAiNRF6+xU4qdUitjaPQ2R6QsTniAN2ZWViaBgztdqTAu9TI61wuxAY4lJqe3hU6MCth65w2QcvjL2aQi20CHRH0wcIti+rAw7q3qoIPOIvXvqcUZLuw88VFKjzowaNPayKXk7ZLmkDJs9aYiCgkl2eIJBmay6WNXcRa9HqAH8JDx2B1FnOeT/oUVpwBAhzx/aafJ57B1GVo6tmmEZArqGVBdOMMFd5efV4h1Y6aSyI3gGZW8OFMkpwFUeayFMv7GzOWCCTbHz2bDEalPXOw6JSXJOcAhvtfnBdmRlTWqpg36g4LFvwGTa0wWZqOYeDoPqdow2QOiY6eI8xBuTlieorLJxT1ZqsyGt2lAyQMHNApR6FyAKu9jx45DVZWSFQrc/P2u4WT37FBQ24VREhx306rFFEKtgFrBFGbIDTbkC6rrR85oOPbNKGALxlqUh1JvMpVBLnXLzbUaHezgrOIoOFiIl5VRSGpU2p0qXrAy0HmbWPJtz00gFzmjyAqMx53Jpo9Cyuk3yq6yENgNWS0oNTiJVyMwQpSpoYo1aZq3JLFv0ikMU/MUYFVfnoNxS1ShOUxe9rPYfxopzwZyXD+gx5967m/WKjxULVzDShXURGycxGfpU2Sl70mv7FXO9yQrPXhS2dUHHiBCyYYziZNSrOWCaD6obmjQXIKtypyF4AiYba1uouHWzNCjXXd2HsJaFpzENYVZnY/StFF15stf5CwanrcQKHPVbCq/JuWDuQu9Ea8qTYqn/kgncillFVpWzfjts/F4FJNRrn3edgvkBTSGxYqg4xyyvdQpylLps2ThyvM3xBVabqSmdn4O+sBurBL9g1cUb56Mx44kVotdwHgJBz/g5vrp5cfWLnnU7vhrjWHIRmKMYrjoGyWnKX+eYxSBMaQSKrNhiDSTtEsQsS+HXYkyt4WbxVHK9OPYYVgrxdWiwMYqtQMtxGRBymTnCLvEVswTMS1I+4MGJjmkIJt15plo0WAnJi4t37b+65+uT+Krr4zHvs6yj2EQHd1L9oe/7g+CNSXMBPHdcGJhzQjcPOfTwjoMfme54DH2W1ErFer/Go1jBYucpRnfRR8p2WJzfc3CcaIxcHDBIgEnDjA/Z+DCHT1xQp8V8AlPHBPjLFvBZDSNcd+jrbwWZ3VkU4xHlO2ipnfdaMu+wBBDHiMOEjUO+tdEDZdvVfZ3bqFXyddRPakNI7bFyutqeRmNycr1nDX/OeRRLn1O2nEDCCVgsz9Z9tMeyxrL0vs1/7yTeGar4AVr9Lf0BSnz/AK3+BlbK13ugnpSVciLGL85Wt1jpts3p2wRKRFEE9ZDH/551KB4nth1D/djdyVescdnlQfLhnskHsj65vFj3kRfrPnIXq676Oe1T6ZU6ByUzQGpbGbXLP6JIcg+r+g6JE06YpoP8f4IJqT1vKRknIonX7ddaAJ/KHazGymN3lGNmXNnkuZONtn6Z6nPmobKtdVM8BesAmAAsTM2wojG1O7OaJm01NM/Dqk1WF7pZtq9kyBq39aupjb+fhdW0svk+1krJ0z5e61VwIEF7Pzp31M/CCkZZ+ImMqjxl+dYPdgJptS/hVzE8C6sOg9GqlcPULofABuJeWA02gL+exgaqWIvWpAo8tqd1bU6+hfaKv5+FVRdTpQcvtBYkaH3wQj0ta9Z7JhlutlI/CCMUXj0va9b5qYkrKbqdpgagx2UNyNh5hWUcb3/9q/J/m7v8YXmx7iMv1n3kxbqPvFj3kRfrPvJi3Uf+Lta/6P99/B8GA+7QLTbC2gAAAABJRU5ErkJggg==" group-title="TR - Sinema",beIN Series Vice 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147485
+#EXTINF:-1 tvg-id="beIN SERIES COMEDY HD-TR" tvg-name="beIN Series Comedy (sorunlu kanal)" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/326/Image/70x46_series_comedy_hd_agu2017.png" group-title="TR - Sinema",beIN Series Comedy (sorunlu kanal)
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147486
+#EXTINF:-1 tvg-id="FOX LIFE HD-TR" tvg-name="FOX LIFE HD" tvg-logo="" group-title="TR - Sinema",FOX LIFE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147449
+#EXTINF:-1 tvg-id="FOX CRIME HD-TR" tvg-name="FOX CRIME HD" tvg-logo="" group-title="TR - Sinema",FOX CRIME HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147450
+#EXTINF:-1 tvg-id="FX HD-TR" tvg-name="FX HD " tvg-logo="" group-title="TR - Sinema",FX HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147451
+#EXTINF:-1 tvg-id="beIN SERIES DRAMA HD-TR" tvg-name="BeIN Series Drama" tvg-logo="" group-title="TR - Sinema",BeIN Series Drama
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147487
+#EXTINF:-1 tvg-id="Dizi Smart Max-TR" tvg-name="DIZISMART MAX" tvg-logo="" group-title="TR - Sinema",DIZISMART MAX
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147452
+#EXTINF:-1 tvg-id="" tvg-name="DİZİ SMART HD" tvg-logo="" group-title="TR - Sinema",DİZİ SMART HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147453
+#EXTINF:-1 tvg-id="MovieSmart Premium HD-TR" tvg-name="MOVİESMART PREMİUM HD 1" tvg-logo="" group-title="TR - Sinema",MOVİESMART PREMİUM HD 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147454
+#EXTINF:-1 tvg-id="MovieSmart Premium 2 HD-TR" tvg-name="MOVİESMART PREMİUM 2 HD" tvg-logo="" group-title="TR - Sinema",MOVİESMART PREMİUM 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147455
+#EXTINF:-1 tvg-id="MovieSmart Platin HD-TR" tvg-name="MOVİESMART PLATİN HD" tvg-logo="" group-title="TR - Sinema",MOVİESMART PLATİN HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147456
+#EXTINF:-1 tvg-id="MovieSmart Platin 2 HD-TR" tvg-name="MOVİESMART PLATİN 2 HD " tvg-logo="" group-title="TR - Sinema",MOVİESMART PLATİN 2 HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147457
+#EXTINF:-1 tvg-id="beIN MOVIES ACTION HD-TR" tvg-name="MOVİESMART ACTİON HD " tvg-logo="" group-title="TR - Sinema",MOVİESMART ACTİON HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147458
+#EXTINF:-1 tvg-id="MovieSmart Gold HD-TR" tvg-name="MOVİESMART GOLD" tvg-logo="" group-title="TR - Sinema",MOVİESMART GOLD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147459
+#EXTINF:-1 tvg-id="MovieSmart Fest HD-TR" tvg-name="MOVİESMART FEST HD " tvg-logo="" group-title="TR - Sinema",MOVİESMART FEST HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147460
+#EXTINF:-1 tvg-id="MovieSmart Classic HD-TR" tvg-name="MOVİESMART CLASSİC HD" tvg-logo="" group-title="TR - Sinema",MOVİESMART CLASSİC HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147461
+#EXTINF:-1 tvg-id="MovieSmart Family HD-TR" tvg-name="MOVİESMART FAMILY HD " tvg-logo="" group-title="TR - Sinema",MOVİESMART FAMILY HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147462
+#EXTINF:-1 tvg-id="MovieSmart Türk HD-TR" tvg-name="MOVİESMART TURK HD " tvg-logo="" group-title="TR - Sinema",MOVİESMART TURK HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147463
+#EXTINF:-1 tvg-id="Sinema Tv Aile-TR" tvg-name="SINEMA TV AILE HD " tvg-logo="" group-title="TR - Sinema",SINEMA TV AILE HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147464
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA TV AILE 2 HD" tvg-logo="" group-title="TR - Sinema",SINEMA TV AILE 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147465
+#EXTINF:-1 tvg-id="SINEMA TV HD-TR" tvg-name="SINEMA TV 1001 HD" tvg-logo="" group-title="TR - Sinema",SINEMA TV 1001 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147466
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV KOMEDI HD 1080" tvg-logo="" group-title="TR - Sinema",SINEMA TV KOMEDI HD 1080
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147467
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="MOVİESMART COCUK HD" tvg-logo="" group-title="TR - Sinema",MOVİESMART COCUK HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147468
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 HD " tvg-logo="" group-title="TR - Sinema",SINEMA TV 1002 HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147469
+#EXTINF:-1 tvg-id="SINEMA TV HD-TR" tvg-name="SINEMA TV HD" tvg-logo="" group-title="TR - Sinema",SINEMA TV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147470
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="SINEMA TV 2 HD" tvg-logo="" group-title="TR - Sinema",SINEMA TV 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147471
+#EXTINF:-1 tvg-id="SINEMA TV HD-TR" tvg-name="SINEMA TV YERLI  HD" tvg-logo="" group-title="TR - Sinema",SINEMA TV YERLI  HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147472
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV YERLI 2 HD" tvg-logo="" group-title="TR - Sinema",SINEMA TV YERLI 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147473
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV ACTION HD" tvg-logo="" group-title="TR - Sinema",SINEMA TV ACTION HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147474
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA TV ACTION 2 HD " tvg-logo="" group-title="TR - Sinema",SINEMA TV ACTION 2 HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147475
+#EXTINF:-1 tvg-id="FILMBOX HD-TR" tvg-name="FILMBOX HD" tvg-logo="" group-title="TR - Sinema",FILMBOX HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147476
+#EXTINF:-1 tvg-id="" tvg-name="H-Salon 1" tvg-logo="" group-title="TR - Sinema +Plus",H-Salon 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/160644
+#EXTINF:-1 tvg-id="" tvg-name="Western Tv" tvg-logo="" group-title="TR - Sinema",Western Tv
+http://penaiptv.com:8080/gecicidir12/heraiptv123/160011
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTV" tvg-logo="" group-title="TR  - Ulusal | 720p",SHOWTV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149130
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="TR  - Ulusal | 720p",ATV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149131
+#EXTINF:-1 tvg-id="" tvg-name="STARTV" tvg-logo="" group-title="TR  - Ulusal | 720p",STARTV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149132
+#EXTINF:-1 tvg-id="TEVE2 HD-TR" tvg-name="TEVE 2" tvg-logo="" group-title="TR  - Ulusal | 720p",TEVE 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149118
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="TR  - Ulusal | 720p",FOX
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149134
+#EXTINF:-1 tvg-id="TVNET HD-TR" tvg-name="TVNET HD" tvg-logo="" group-title="TR  - Haber",TVNET HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149107
+#EXTINF:-1 tvg-id="TRT BELGESEL-TR" tvg-name="TRT BELGESEL HD" tvg-logo="" group-title="TR - Belgesel",TRT BELGESEL HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149109
+#EXTINF:-1 tvg-id="A HABER-TR" tvg-name="A HABER HD" tvg-logo="" group-title="TR  - Haber",A HABER HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149110
+#EXTINF:-1 tvg-id="NTV-TR" tvg-name="NTV HABER HD" tvg-logo="" group-title="TR  - Haber",NTV HABER HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149111
+#EXTINF:-1 tvg-id="HABERTÜRK-TR" tvg-name="HABERTURK HD" tvg-logo="" group-title="TR  - Haber",HABERTURK HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149112
+#EXTINF:-1 tvg-id="TRT HABER HD-TR" tvg-name="TRT HABER HD" tvg-logo="" group-title="TR  - Haber",TRT HABER HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149113
+#EXTINF:-1 tvg-id="ÜLKE TV-TR" tvg-name="ULKETV HD" tvg-logo="" group-title="TR  - Haber",ULKETV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149115
+#EXTINF:-1 tvg-id="TGRT HABER-TR" tvg-name="TGRT HABER HD" tvg-logo="" group-title="TR  - Haber",TGRT HABER HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149116
+#EXTINF:-1 tvg-id="CNN TÜRK HD-TR" tvg-name="CNN TURK HD" tvg-logo="" group-title="TR  - Haber",CNN TURK HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149117
+#EXTINF:-1 tvg-id="HABER GLOBAL HD-TR" tvg-name="HABER GLOBAL HD" tvg-logo="" group-title="TR  - Haber",HABER GLOBAL HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149120
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 24 HD" tvg-logo="" group-title="TR  - Haber",KANAL 24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149121
+#EXTINF:-1 tvg-id="A PARA-TR" tvg-name="A PARA HD" tvg-logo="" group-title="TR  - Haber",A PARA HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149122
+#EXTINF:-1 tvg-id="TRT 2 HD-TR" tvg-name="TRT 2 HD" tvg-logo="" group-title="TR  - Haber",TRT 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149123
+#EXTINF:-1 tvg-id="Halk Tv-TR" tvg-name="HALK TV HD" tvg-logo="" group-title="TR  - Haber",HALK TV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149129
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT " tvg-logo="" group-title="TR  - Haber",BLOOMBERG HT 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147511
+#EXTINF:-1 tvg-id="" tvg-name="KRT 1080 HD" tvg-logo="" group-title="TR  - Haber",KRT 1080 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147513
+#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="TRT 1 UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=393" group-title="TR  - Ulusal UHD",TRT 1 UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149081
+#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="TRT 4K" tvg-logo="" group-title="TR  - Ulusal UHD",TRT 4K
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149082
+#EXTINF:-1 tvg-id="FOX-TR" tvg-name="FOX TV UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=555" group-title="TR  - Ulusal UHD",FOX TV UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149084
+#EXTINF:-1 tvg-id="ATV HD-TR" tvg-name="ATV UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=391" group-title="TR  - Ulusal UHD",ATV UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149085
+#EXTINF:-1 tvg-id="SHOW TV-TR" tvg-name="SHOW TV UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=392V" group-title="TR  - Ulusal UHD",SHOW TV UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149086
+#EXTINF:-1 tvg-id="STAR TV-TR" tvg-name="STAR UHD " tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=389https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=389" group-title="TR  - Ulusal UHD",STAR UHD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149087
+#EXTINF:-1 tvg-id="KANAL D-TR" tvg-name="KANAL D UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=453" group-title="TR  - Ulusal UHD",KANAL D UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149088
+#EXTINF:-1 tvg-id="TV8-TR" tvg-name="TV8 UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=386" group-title="TR  - Ulusal UHD",TV8 UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149089
+#EXTINF:-1 tvg-id="" tvg-name="TV8.5 HD 1080" tvg-logo="" group-title="TR  - Ulusal UHD",TV8.5 HD 1080
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149090
+#EXTINF:-1 tvg-id="KANAL 7-TR" tvg-name="KANAL7 UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=514" group-title="TR  - Ulusal UHD",KANAL7 UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149091
+#EXTINF:-1 tvg-id="BEYAZ TV HD-TR" tvg-name="BEYAZTV UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=273" group-title="TR  - Ulusal UHD",BEYAZTV UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149092
+#EXTINF:-1 tvg-id="A2" tvg-name="A2 UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=567" group-title="TR  - Ulusal UHD",A2 UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149093
+#EXTINF:-1 tvg-id="" tvg-name="TEVE2 UHD" tvg-logo="https://turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=559" group-title="TR  - Ulusal UHD",TEVE2 UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149094
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TV 4 " tvg-logo="" group-title="TR  - Ulusal UHD",TV 4 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149095
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD HD" tvg-logo="" group-title="TR  - Ulusal | 720p",TRT WORLD HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147541
+#EXTINF:-1 tvg-id="" tvg-name="EKOTURK" tvg-logo="" group-title="TR  - Ulusal | 720p",EKOTURK
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147556
+#EXTINF:-1 tvg-id="" tvg-name="Yol TV" tvg-logo="" group-title="TR  - Ulusal | 720p",Yol TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/158875
+#EXTINF:-1 tvg-id="" tvg-name="TV100" tvg-logo="" group-title="TR  - Ulusal | 720p",TV100
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149142
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="TR  - Ulusal | 720p",KANAL D
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149140
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="TR  - Ulusal | 720p",TRT 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149138
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZTV " tvg-logo="" group-title="TR  - Ulusal | 720p",BEYAZTV 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149136
+#EXTINF:-1 tvg-id="" tvg-name="KANAL7" tvg-logo="" group-title="TR  - Ulusal | 720p",KANAL7
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149135
+#EXTINF:-1 tvg-id="" tvg-name="A2" tvg-logo="" group-title="TR  - Ulusal | 720p",A2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149137
+#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="" group-title="TR  - Ulusal | 720p",TV8
+http://penaiptv.com:8080/gecicidir12/heraiptv123/149133
+#EXTINF:-1 tvg-id="TRT 1 HD-TR" tvg-name="HEVC 4K | TRT 1" tvg-logo="" group-title="TR  - Ulusal UHD",HEVC 4K | TRT 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147519
+#EXTINF:-1 tvg-id="FOX-TR" tvg-name="HEVC 4K | FOX" tvg-logo="" group-title="TR  - Ulusal UHD",HEVC 4K | FOX
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147525
+#EXTINF:-1 tvg-id="ATV HD-TR" tvg-name="HEVC 4K | ATV" tvg-logo="" group-title="TR  - Ulusal UHD",HEVC 4K | ATV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147528
+#EXTINF:-1 tvg-id="" tvg-name="HEVC 4K | TV8" tvg-logo="" group-title="TR  - Ulusal UHD",HEVC 4K | TV8
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147524
+#EXTINF:-1 tvg-id="" tvg-name="HEVC 4K | BEYAZ TV" tvg-logo="" group-title="TR  - Ulusal UHD",HEVC 4K | BEYAZ TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147522
+#EXTINF:-1 tvg-id="SHOW TV-TR" tvg-name="Hvec 4k | SHOW TV " tvg-logo="" group-title="TR  - Ulusal UHD",Hvec 4k | SHOW TV 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147526
+#EXTINF:-1 tvg-id="" tvg-name="HEVC 4K | STAR" tvg-logo="" group-title="TR  - Ulusal UHD",HEVC 4K | STAR
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147529
+#EXTINF:-1 tvg-id="KANAL D-TR" tvg-name="HEVC 4K | KANAL D" tvg-logo="" group-title="TR  - Ulusal UHD",HEVC 4K | KANAL D
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147530
+#EXTINF:-1 tvg-id="" tvg-name="HEVC 4K | KRT TV HD " tvg-logo="" group-title="TR  - Ulusal UHD",HEVC 4K | KRT TV HD 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147520
+#EXTINF:-1 tvg-id="" tvg-name="HEVC 4K | KANAL 7 " tvg-logo="" group-title="TR  - Ulusal UHD",HEVC 4K | KANAL 7 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147521
+#EXTINF:-1 tvg-id="" tvg-name="HEVC 4K | TV8.5 " tvg-logo="" group-title="TR  - Ulusal UHD",HEVC 4K | TV8.5 
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147523
+#EXTINF:-1 tvg-id="A2" tvg-name="HEVC 4K | A2" tvg-logo="" group-title="TR  - Ulusal UHD",HEVC 4K | A2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147527
+#EXTINF:-1 tvg-id="" tvg-name="TRT COCUK HD" tvg-logo="" group-title="TR - Çocuk",TRT COCUK HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147544
+#EXTINF:-1 tvg-id="" tvg-name="CBEEBİES HD" tvg-logo="" group-title="TR - Çocuk",CBEEBİES HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147560
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="TR - Çocuk",BOOMERANG HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147561
+#EXTINF:-1 tvg-id="" tvg-name="MINICA GO HD" tvg-logo="" group-title="TR - Çocuk",MINICA GO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147562
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD" tvg-logo="" group-title="TR - Çocuk",NICK JR HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147563
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY HD" tvg-logo="" group-title="TR - Çocuk",DISNEY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147564
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="TR - Çocuk",NICKELODEON HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147565
+#EXTINF:-1 tvg-id="" tvg-name="DİSNEY XD" tvg-logo="" group-title="TR - Çocuk",DİSNEY XD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147566
+#EXTINF:-1 tvg-id="" tvg-name="DA VINCİ KIDS HD" tvg-logo="" group-title="TR - Çocuk",DA VINCİ KIDS HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147567
+#EXTINF:-1 tvg-id="" tvg-name="MINIKA COCUK HD" tvg-logo="" group-title="TR - Çocuk",MINIKA COCUK HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147568
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="" group-title="TR - Çocuk",BABY TV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147569
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="" group-title="TR - Çocuk",DISNEY JR HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147570
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="TR - Çocuk",CARTOON NETWORK HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147571
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE HD" tvg-logo="" group-title="YENİ KANALLAR",TV5 MONDE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/158667
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="" group-title="YENİ KANALLAR",CNN INTERNATIONAL
+http://penaiptv.com:8080/gecicidir12/heraiptv123/158668
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 HD" tvg-logo="" group-title="YENİ KANALLAR",FRANCE 24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/158669
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="YENİ KANALLAR",BBC WORLD NEWS
+http://penaiptv.com:8080/gecicidir12/heraiptv123/158671
+#EXTINF:-1 tvg-id="" tvg-name="A NEWS HD" tvg-logo="" group-title="YENİ KANALLAR",A NEWS HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/158672
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA RTR  HD" tvg-logo="" group-title="YENİ KANALLAR",PLANETA RTR  HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/158673
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD" tvg-logo="" group-title="YENİ KANALLAR",FASHION TV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/158675
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="YENİ KANALLAR",MEZZO
+http://penaiptv.com:8080/gecicidir12/heraiptv123/158679
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP" tvg-logo="" group-title="YENİ KANALLAR",MCM TOP
+http://penaiptv.com:8080/gecicidir12/heraiptv123/158680
+#EXTINF:-1 tvg-id="" tvg-name="UCANKUS HD" tvg-logo="" group-title="YENİ KANALLAR",UCANKUS HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/158681
+#EXTINF:-1 tvg-id="" tvg-name="---=== DE Cinema ===---" tvg-logo="" group-title="GE - Cinema",---=== DE Cinema ===---
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151435
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD DE" tvg-logo="" group-title="GE - Cinema",Fox HD DE
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147695
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" tvg-logo="" group-title="GE - Cinema",Universal HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147696
+#EXTINF:-1 tvg-id="" tvg-name="SONY AXN HD" tvg-logo="" group-title="GE - Cinema",SONY AXN HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147697
+#EXTINF:-1 tvg-id="" tvg-name="Kinowelt HD" tvg-logo="" group-title="GE - Cinema",Kinowelt HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147698
+#EXTINF:-1 tvg-id="" tvg-name="Silverline HD" tvg-logo="" group-title="GE - Cinema",Silverline HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147699
+#EXTINF:-1 tvg-id="" tvg-name="13th Street HD" tvg-logo="" group-title="GE - Cinema",13th Street HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147700
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment HD" tvg-logo="" group-title="GE - Cinema",E! Entertainment HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147701
+#EXTINF:-1 tvg-id="" tvg-name="TNT Comedy HD" tvg-logo="" group-title="GE - Cinema",TNT Comedy HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147702
+#EXTINF:-1 tvg-id="" tvg-name="TNT Film HD" tvg-logo="" group-title="GE - Cinema",TNT Film HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147703
+#EXTINF:-1 tvg-id="" tvg-name="TNT Serie HD" tvg-logo="" group-title="GE - Cinema",TNT Serie HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147704
+#EXTINF:-1 tvg-id="" tvg-name="Romance TV" tvg-logo="" group-title="GE - Cinema",Romance TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147705
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="" group-title="GE - Cinema",Syfy HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/147706
+#EXTINF:-1 tvg-id="" tvg-name="Film Action HD" tvg-logo="" group-title="GE - Cinema",Film Action HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/150946
+#EXTINF:-1 tvg-id="" tvg-name="Film Adventure HD" tvg-logo="" group-title="GE - Cinema",Film Adventure HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/150947
+#EXTINF:-1 tvg-id="" tvg-name="Film Bollywood HD" tvg-logo="" group-title="GE - Cinema",Film Bollywood HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/150948
+#EXTINF:-1 tvg-id="" tvg-name="Film Comedy HD" tvg-logo="" group-title="GE - Cinema",Film Comedy HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/150949
+#EXTINF:-1 tvg-id="" tvg-name="Film Drama HD" tvg-logo="" group-title="GE - Cinema",Film Drama HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/150950
+#EXTINF:-1 tvg-id="" tvg-name="Film Fantasy HD" tvg-logo="" group-title="GE - Cinema",Film Fantasy HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/150951
+#EXTINF:-1 tvg-id="" tvg-name="Film Horror HD" tvg-logo="" group-title="GE - Cinema",Film Horror HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/150952
+#EXTINF:-1 tvg-id="" tvg-name="Film Sci-Fi HD" tvg-logo="" group-title="GE - Cinema",Film Sci-Fi HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/150953
+#EXTINF:-1 tvg-id="" tvg-name="Film Thriller HD" tvg-logo="" group-title="GE - Cinema",Film Thriller HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/150954
+#EXTINF:-1 tvg-id="" tvg-name="Film Jackie Chan HD" tvg-logo="" group-title="GE - Cinema",Film Jackie Chan HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/150957
+#EXTINF:-1 tvg-id="" tvg-name="---=== DE Doku ===---" tvg-logo="" group-title="GE - Documentary",---=== DE Doku ===---
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151251
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="GE - Documentary",Discovery HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151252
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="GE - Documentary",National Geographic
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151253
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="GE - Documentary",Nat Geo Wild
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151254
+#EXTINF:-1 tvg-id="" tvg-name="Planet HD" tvg-logo="" group-title="GE - Documentary",Planet HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151255
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="GE - Documentary",History HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151256
+#EXTINF:-1 tvg-id="" tvg-name="Spiegel Geschichte HD" tvg-logo="" group-title="GE - Documentary",Spiegel Geschichte HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151257
+#EXTINF:-1 tvg-id="" tvg-name="Spiegel TV Wissen" tvg-logo="" group-title="GE - Documentary",Spiegel TV Wissen
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151258
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="GE - Documentary",A&E HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151259
+#EXTINF:-1 tvg-id="" tvg-name="N24 Doku" tvg-logo="" group-title="GE - Documentary",N24 Doku
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151260
+#EXTINF:-1 tvg-id="" tvg-name="Welt der Wunder" tvg-logo="" group-title="GE - Documentary",Welt der Wunder
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151261
+#EXTINF:-1 tvg-id="" tvg-name="Kabel Eins Doku HD" tvg-logo="" group-title="GE - Documentary",Kabel Eins Doku HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151262
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="GE - Documentary",DMAX
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151263
+#EXTINF:-1 tvg-id="" tvg-name="---=== DE Cinema ===---" tvg-logo="" group-title="GE - Cinema",---=== DE Cinema ===---
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151264
+#EXTINF:-1 tvg-id="" tvg-name="Sky 1 HD" tvg-logo="" group-title="GE - Cinema",Sky 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151265
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema HD" tvg-logo="" group-title="GE - Cinema",Sky Cinema HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151266
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema +1 HD" tvg-logo="" group-title="GE - Cinema",Sky Cinema +1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151267
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema +24 HD" tvg-logo="" group-title="GE - Cinema",Sky Cinema +24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151268
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Hits HD" tvg-logo="" group-title="GE - Cinema",Sky Cinema Hits HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151269
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action HD" tvg-logo="" group-title="GE - Cinema",Sky Cinema Action HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151270
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy HD" tvg-logo="" group-title="GE - Cinema",Sky Cinema Comedy HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151271
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Special HD" tvg-logo="" group-title="GE - Cinema",Sky Cinema Special HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151272
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family HD" tvg-logo="" group-title="GE - Cinema",Sky Cinema Family HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151273
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Emotion HD" tvg-logo="" group-title="GE - Cinema",Sky Cinema Emotion HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151274
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="GE - Cinema",Sky Atlantic HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151275
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Nostalgie" tvg-logo="" group-title="GE - Cinema",Sky Cinema Nostalgie
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151276
+#EXTINF:-1 tvg-id="" tvg-name="Sky Krimi" tvg-logo="" group-title="GE - Cinema",Sky Krimi
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151277
+#EXTINF:-1 tvg-id="" tvg-name="RTL Crime HD" tvg-logo="" group-title="GE - Cinema",RTL Crime HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151278
+#EXTINF:-1 tvg-id="" tvg-name="RTL Nitro HD" tvg-logo="" group-title="GE - Cinema",RTL Nitro HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151279
+#EXTINF:-1 tvg-id="" tvg-name="RTL Passion HD" tvg-logo="" group-title="GE - Cinema",RTL Passion HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151280
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="GE - Cinema",Cartoon Network HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151281
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="" group-title="GE - Cinema",Disney Junior HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151282
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="GE - Cinema",Disney XD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151283
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="" group-title="GE - Cinema",Boomerang HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151284
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD DE" tvg-logo="" group-title="GE - Cinema",Fox HD DE
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151285
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" tvg-logo="" group-title="GE - Cinema",Universal HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151286
+#EXTINF:-1 tvg-id="" tvg-name="SONY AXN HD" tvg-logo="" group-title="GE - Cinema",SONY AXN HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151287
+#EXTINF:-1 tvg-id="" tvg-name="Kinowelt HD" tvg-logo="" group-title="GE - Cinema",Kinowelt HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151288
+#EXTINF:-1 tvg-id="" tvg-name="Silverline HD" tvg-logo="" group-title="GE - Cinema",Silverline HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151289
+#EXTINF:-1 tvg-id="" tvg-name="13th Street HD" tvg-logo="" group-title="GE - Cinema",13th Street HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151290
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment HD" tvg-logo="" group-title="GE - Cinema",E! Entertainment HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151291
+#EXTINF:-1 tvg-id="" tvg-name="TNT Comedy HD" tvg-logo="" group-title="GE - Cinema",TNT Comedy HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151292
+#EXTINF:-1 tvg-id="" tvg-name="TNT Film HD" tvg-logo="" group-title="GE - Cinema",TNT Film HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151293
+#EXTINF:-1 tvg-id="" tvg-name="TNT Serie HD" tvg-logo="" group-title="GE - Cinema",TNT Serie HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151294
+#EXTINF:-1 tvg-id="" tvg-name="Romance TV" tvg-logo="" group-title="GE - Cinema",Romance TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151295
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="" group-title="GE - Cinema",Syfy HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151296
+#EXTINF:-1 tvg-id="" tvg-name="RTL HD" tvg-logo="" group-title="GE - Germany",RTL HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151300
+#EXTINF:-1 tvg-id="" tvg-name="ZDF HD" tvg-logo="" group-title="GE - Germany",ZDF HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151299
+#EXTINF:-1 tvg-id="" tvg-name="Sat.1 HD" tvg-logo="" group-title="GE - Germany",Sat.1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151301
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben HD" tvg-logo="" group-title="GE - Germany",ProSieben HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151302
+#EXTINF:-1 tvg-id="" tvg-name="Pro7 Maxx HD" tvg-logo="" group-title="GE - Germany",Pro7 Maxx HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151303
+#EXTINF:-1 tvg-id="" tvg-name="Pro7 Fun HD" tvg-logo="" group-title="GE - Germany",Pro7 Fun HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151304
+#EXTINF:-1 tvg-id="" tvg-name="Vox HD" tvg-logo="" group-title="GE - Germany",Vox HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151305
+#EXTINF:-1 tvg-id="" tvg-name="RTL ZWEI HD" tvg-logo="" group-title="GE - Germany",RTL ZWEI HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151306
+#EXTINF:-1 tvg-id="" tvg-name="Kabel eins HD" tvg-logo="" group-title="GE - Germany",Kabel eins HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151307
+#EXTINF:-1 tvg-id="" tvg-name="kabel eins classics HD" tvg-logo="" group-title="GE - Germany",kabel eins classics HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151308
+#EXTINF:-1 tvg-id="" tvg-name="WDR HD" tvg-logo="" group-title="GE - Germany",WDR HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151309
+#EXTINF:-1 tvg-id="" tvg-name="WELT HD" tvg-logo="" group-title="GE - Germany",WELT HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151310
+#EXTINF:-1 tvg-id="" tvg-name="N-tv HD" tvg-logo="" group-title="GE - Germany",N-tv HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151311
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="GE - Germany",MTV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151312
+#EXTINF:-1 tvg-id="" tvg-name="SIXX HD" tvg-logo="" group-title="GE - Germany",SIXX HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151313
+#EXTINF:-1 tvg-id="" tvg-name="TELE 5 HD" tvg-logo="" group-title="GE - Germany",TELE 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151314
+#EXTINF:-1 tvg-id="" tvg-name="Zee One" tvg-logo="" group-title="GE - Germany",Zee One
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151315
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="" group-title="GE - Germany",Euronews
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151316
+#EXTINF:-1 tvg-id="" tvg-name="ARTE" tvg-logo="" group-title="GE - Germany",ARTE
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151317
+#EXTINF:-1 tvg-id="" tvg-name="3sat HD" tvg-logo="" group-title="GE - Germany",3sat HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151318
+#EXTINF:-1 tvg-id="" tvg-name="ORF1 HD" tvg-logo="" group-title="GE - Germany",ORF1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151319
+#EXTINF:-1 tvg-id="" tvg-name="ORF 2 HD" tvg-logo="" group-title="GE - Germany",ORF 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151320
+#EXTINF:-1 tvg-id="" tvg-name="Puls 4 HD" tvg-logo="" group-title="GE - Germany",Puls 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151321
+#EXTINF:-1 tvg-id="" tvg-name="DE:TLC HD" tvg-logo="" group-title="GE - Germany",DE:TLC HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151322
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix HD" tvg-logo="" group-title="GE - Germany",Phoenix HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151323
+#EXTINF:-1 tvg-id="" tvg-name="ARD-alpha HD" tvg-logo="" group-title="GE - Germany",ARD-alpha HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151324
+#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-logo="" group-title="GE - Germany",ONE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151325
+#EXTINF:-1 tvg-id="" tvg-name="ZDF INFO HD" tvg-logo="" group-title="GE - Germany",ZDF INFO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151326
+#EXTINF:-1 tvg-id="" tvg-name="ZDF NEO HD" tvg-logo="" group-title="GE - Germany",ZDF NEO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151327
+#EXTINF:-1 tvg-id="" tvg-name="SR Fernsehen HD" tvg-logo="" group-title="GE - Germany",SR Fernsehen HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151328
+#EXTINF:-1 tvg-id="" tvg-name="RTL UHD" tvg-logo="" group-title="GE - Germany",RTL UHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151329
+#EXTINF:-1 tvg-id="" tvg-name="---=== DE Sport ===---" tvg-logo="" group-title="GE - Sport",---=== DE Sport ===---
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151330
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport News HD" tvg-logo="" group-title="GE - Sport",Sky Sport News HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151331
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 HD" tvg-logo="" group-title="GE - Sport",Sky Sport 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151332
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 HD" tvg-logo="" group-title="GE - Sport",Sky Sport 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151333
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 HD" tvg-logo="" group-title="GE - Sport",Sky Sport 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151334
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 HD" tvg-logo="" group-title="GE - Sport",Sky Sport 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151335
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 HD" tvg-logo="" group-title="GE - Sport",Sky Sport 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151336
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 HD" tvg-logo="" group-title="GE - Sport",Sky Sport 6 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151337
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 HD" tvg-logo="" group-title="GE - Sport",Sky Sport 7 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151338
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8 HD" tvg-logo="" group-title="GE - Sport",Sky Sport 8 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151339
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 9 HD" tvg-logo="" group-title="GE - Sport",Sky Sport 9 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151340
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 10 HD" tvg-logo="" group-title="GE - Sport",Sky Sport 10 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151341
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 Bar HD" tvg-logo="" group-title="GE - Sport",DAZN 1 Bar HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151342
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 Bar HD" tvg-logo="" group-title="GE - Sport",DAZN 2 Bar HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151343
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD Xtra / DAZN Bundesliga" tvg-logo="" group-title="GE - Sport",Eurosport 2 HD Xtra / DAZN Bundesliga
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151344
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1+ HD" tvg-logo="" group-title="GE - Sport",Sport 1+ HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151345
+#EXTINF:-1 tvg-id="" tvg-name="Auto Motor Sport HD" tvg-logo="" group-title="GE - Sport",Auto Motor Sport HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151346
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1 HD" tvg-logo="" group-title="GE - Sport",Sky Sport Austria 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151347
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1 HD" tvg-logo="" group-title="GE - Sport",Sport 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151348
+#EXTINF:-1 tvg-id="" tvg-name="eSports HD" tvg-logo="" group-title="GE - Sport",eSports HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151349
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="GE - Sport",Eurosport 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151350
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="GE - Sport",Eurosport 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151351
+#EXTINF:-1 tvg-id="" tvg-name="FC Bayern TV HD" tvg-logo="" group-title="GE - Sport",FC Bayern TV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151352
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="" group-title="GE - Sport",Extreme Sports
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151353
+#EXTINF:-1 tvg-id="" tvg-name="Sportdigital Fussball HD" tvg-logo="" group-title="GE - Sport",Sportdigital Fussball HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151354
+#EXTINF:-1 tvg-id="" tvg-name="---=== European Sports ===---" tvg-logo="" group-title="EU - Sports",---=== European Sports ===---
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151355
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones HD" tvg-logo="" group-title="EU - Sports",M. Liga de Campeones HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151356
+#EXTINF:-1 tvg-id="" tvg-name="[UK] SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="" group-title="EU - Sports",[UK] SKY SPORTS PREMIER LEAGUE FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151357
+#EXTINF:-1 tvg-id="" tvg-name="[UK] SKY SPORTS ACTION HD" tvg-logo="" group-title="EU - Sports",[UK] SKY SPORTS ACTION HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151358
+#EXTINF:-1 tvg-id="" tvg-name="[UK] SKY SPORTS ARENA HD" tvg-logo="" group-title="EU - Sports",[UK] SKY SPORTS ARENA HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151359
+#EXTINF:-1 tvg-id="" tvg-name="[UK] SKY SPORT MAIN EVENT HD" tvg-logo="" group-title="EU - Sports",[UK] SKY SPORT MAIN EVENT HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151360
+#EXTINF:-1 tvg-id="" tvg-name="[UK] SKY SPORTS F1 HD" tvg-logo="" group-title="EU - Sports",[UK] SKY SPORTS F1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151361
+#EXTINF:-1 tvg-id="" tvg-name="[UK] SKY SPORT NEWS HD" tvg-logo="" group-title="EU - Sports",[UK] SKY SPORT NEWS HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151362
+#EXTINF:-1 tvg-id="" tvg-name="[UK] SKY SPORTS FOOTBALL HD" tvg-logo="" group-title="EU - Sports",[UK] SKY SPORTS FOOTBALL HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151363
+#EXTINF:-1 tvg-id="" tvg-name="[UK] SKY SPORTS GOLF HD" tvg-logo="" group-title="EU - Sports",[UK] SKY SPORTS GOLF HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151364
+#EXTINF:-1 tvg-id="" tvg-name="[UK] SKY SPORTS CRICKET HD" tvg-logo="" group-title="EU - Sports",[UK] SKY SPORTS CRICKET HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151365
+#EXTINF:-1 tvg-id="" tvg-name="[UK] SKY SPORTS MIX HD" tvg-logo="" group-title="EU - Sports",[UK] SKY SPORTS MIX HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151366
+#EXTINF:-1 tvg-id="" tvg-name="BoxNation" tvg-logo="" group-title="EU - Sports",BoxNation
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151367
+#EXTINF:-1 tvg-id="" tvg-name="[UK] BT Sport 1 HD" tvg-logo="" group-title="EU - Sports",[UK] BT Sport 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151368
+#EXTINF:-1 tvg-id="" tvg-name="[UK] BT Sport 2 HD" tvg-logo="" group-title="EU - Sports",[UK] BT Sport 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151369
+#EXTINF:-1 tvg-id="" tvg-name="[UK] BT Sport 3 HD" tvg-logo="" group-title="EU - Sports",[UK] BT Sport 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151370
+#EXTINF:-1 tvg-id="" tvg-name="[UK] BT Sport ESPN HD" tvg-logo="" group-title="EU - Sports",[UK] BT Sport ESPN HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151371
+#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX SPORTS 1 Full HD" tvg-logo="" group-title="EU - Sports",[NL] FOX SPORTS 1 Full HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151372
+#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX SPORTS 2 HD" tvg-logo="" group-title="EU - Sports",[NL] FOX SPORTS 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151373
+#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX SPORTS 3 HD" tvg-logo="" group-title="EU - Sports",[NL] FOX SPORTS 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151374
+#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX SPORTS 4 HD" tvg-logo="" group-title="EU - Sports",[NL] FOX SPORTS 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151375
+#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX SPORTS 5 HD" tvg-logo="" group-title="EU - Sports",[NL] FOX SPORTS 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151376
+#EXTINF:-1 tvg-id="" tvg-name="[NL] FOX SPORTS 6 HD" tvg-logo="" group-title="EU - Sports",[NL] FOX SPORTS 6 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151377
+#EXTINF:-1 tvg-id="" tvg-name="beIn Sports News HD Mena" tvg-logo="" group-title="EU - Sports",beIn Sports News HD Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151378
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD Mena" tvg-logo="" group-title="EU - Sports",beIN SPORTS 1 HD Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151379
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD Mena" tvg-logo="" group-title="EU - Sports",beIN SPORTS 2 HD Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151380
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD Mena" tvg-logo="" group-title="EU - Sports",beIN SPORTS 3 HD Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151381
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD Mena" tvg-logo="" group-title="EU - Sports",beIN SPORTS 4 HD Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151382
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD Mena" tvg-logo="" group-title="EU - Sports",beIN SPORTS 5 HD Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151383
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD Mena" tvg-logo="" group-title="EU - Sports",beIN SPORTS 6 HD Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151384
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD Mena" tvg-logo="" group-title="EU - Sports",beIN SPORTS 7 HD Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151385
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 HD Mena" tvg-logo="" group-title="EU - Sports",beIN SPORTS 8 HD Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151386
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 HD Mena" tvg-logo="" group-title="EU - Sports",beIN SPORTS 9 HD Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151387
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 10 HD Mena" tvg-logo="" group-title="EU - Sports",beIN SPORTS 10 HD Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151388
+#EXTINF:-1 tvg-id="" tvg-name="beIn Sports NBA Mena" tvg-logo="" group-title="EU - Sports",beIn Sports NBA Mena
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151389
+#EXTINF:-1 tvg-id="" tvg-name="beIn Sports HD USA" tvg-logo="" group-title="EU - Sports",beIn Sports HD USA
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151390
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1" tvg-logo="" group-title="EU - Sports",Digi Sport 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151391
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2" tvg-logo="" group-title="EU - Sports",Digi Sport 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151392
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 3" tvg-logo="" group-title="EU - Sports",Digi Sport 3
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151393
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 4" tvg-logo="" group-title="EU - Sports",Digi Sport 4
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151394
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet 360 HD" tvg-logo="" group-title="EU - Sports",SportsNet 360 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151395
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet One HD" tvg-logo="" group-title="EU - Sports",SportsNet One HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151396
+#EXTINF:-1 tvg-id="" tvg-name="[NL] ZIGGO SPORT EXTRA 1" tvg-logo="" group-title="EU - Sports",[NL] ZIGGO SPORT EXTRA 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151397
+#EXTINF:-1 tvg-id="" tvg-name="[NL] ZIGGO SPORT GOLF" tvg-logo="" group-title="EU - Sports",[NL] ZIGGO SPORT GOLF
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151398
+#EXTINF:-1 tvg-id="" tvg-name="[NL] ZIGGO SPORT RACING" tvg-logo="" group-title="EU - Sports",[NL] ZIGGO SPORT RACING
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151399
+#EXTINF:-1 tvg-id="" tvg-name="[NL] ZIGGO SPORT SELECT HD" tvg-logo="" group-title="EU - Sports",[NL] ZIGGO SPORT SELECT HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151400
+#EXTINF:-1 tvg-id="" tvg-name="[NL] ZIGGO SPORT VOETBAL" tvg-logo="" group-title="EU - Sports",[NL] ZIGGO SPORT VOETBAL
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151401
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 HD" tvg-logo="" group-title="EU - Sports",US: ESPN 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151402
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 3 HD" tvg-logo="" group-title="EU - Sports",US: ESPN 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151403
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN News HD" tvg-logo="" group-title="EU - Sports",US: ESPN News HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151404
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN DEPORTES HD" tvg-logo="" group-title="EU - Sports",US: ESPN DEPORTES HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151405
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN Extra" tvg-logo="" group-title="EU - Sports",US: ESPN Extra
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151406
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 1 HD" tvg-logo="" group-title="EU - Sports",US: ESPN 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151407
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS HD" tvg-logo="" group-title="EU - Sports",UFC FIGHT PASS HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151408
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD" tvg-logo="" group-title="EU - Sports",WWE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151409
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network HD" tvg-logo="" group-title="EU - Sports",Fight Network HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151410
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD" tvg-logo="" group-title="EU - Sports",NFL Network HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151411
+#EXTINF:-1 tvg-id="" tvg-name="NHL Network HD" tvg-logo="" group-title="EU - Sports",NHL Network HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151412
+#EXTINF:-1 tvg-id="" tvg-name="BE:ELEVEN SPORT 1 HD" tvg-logo="" group-title="EU - Sports",BE:ELEVEN SPORT 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151413
+#EXTINF:-1 tvg-id="" tvg-name="BE:ELEVEN SPORT 2 HD" tvg-logo="" group-title="EU - Sports",BE:ELEVEN SPORT 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151414
+#EXTINF:-1 tvg-id="" tvg-name="BE:VOO SPORT WORLD 1 HD" tvg-logo="" group-title="EU - Sports",BE:VOO SPORT WORLD 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151415
+#EXTINF:-1 tvg-id="" tvg-name="BE:VOO SPORT WORLD 2 HD" tvg-logo="" group-title="EU - Sports",BE:VOO SPORT WORLD 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151416
+#EXTINF:-1 tvg-id="" tvg-name="BE:VOO SPORT WORLD 3 HD" tvg-logo="" group-title="EU - Sports",BE:VOO SPORT WORLD 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151417
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN HD" tvg-logo="" group-title="EU - Sports",NBCSN HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151418
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="" group-title="EU - Sports",TBS HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151419
+#EXTINF:-1 tvg-id="" tvg-name="USA TNT HD" tvg-logo="" group-title="EU - Sports",USA TNT HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151420
+#EXTINF:-1 tvg-id="" tvg-name="TSN Sports 1 HD" tvg-logo="" group-title="EU - Sports",TSN Sports 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151421
+#EXTINF:-1 tvg-id="" tvg-name="TSN Sports 2 HD" tvg-logo="" group-title="EU - Sports",TSN Sports 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151422
+#EXTINF:-1 tvg-id="" tvg-name="TSN Sports 3 HD" tvg-logo="" group-title="EU - Sports",TSN Sports 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151423
+#EXTINF:-1 tvg-id="" tvg-name="TSN Sports 4 HD" tvg-logo="" group-title="EU - Sports",TSN Sports 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151424
+#EXTINF:-1 tvg-id="" tvg-name="TSN Sports 5 HD" tvg-logo="" group-title="EU - Sports",TSN Sports 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151425
+#EXTINF:-1 tvg-id="" tvg-name="USA WWE_HD" tvg-logo="" group-title="EU - Sports",USA WWE_HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151426
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bein Sports USA HD" tvg-logo="" group-title="EU - Sports",USA: Bein Sports USA HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151427
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 1 HD" tvg-logo="" group-title="EU - Sports",USA: ESPN 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151428
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 1 HD" tvg-logo="" group-title="EU - Sports",USA: FOX SPORTS 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151429
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 2 HD" tvg-logo="" group-title="EU - Sports",USA: FOX SPORTS 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151430
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TV" tvg-logo="" group-title="EU - Sports",USA: NBA TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151431
+#EXTINF:-1 tvg-id="" tvg-name="[ES] DAZN 1" tvg-logo="" group-title="EU - Sports",[ES] DAZN 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151432
+#EXTINF:-1 tvg-id="" tvg-name="[ES] DAZN 2" tvg-logo="" group-title="EU - Sports",[ES] DAZN 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151433
+#EXTINF:-1 tvg-id="" tvg-name="UPC My Sports ONE" tvg-logo="" group-title="EU - Sports",UPC My Sports ONE
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151434
+#EXTINF:-1 tvg-id="" tvg-name="---=== Bulgarian ===---" tvg-logo="" group-title="BG - Bulgaria",---=== Bulgarian ===---
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151436
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Kanal 3" tvg-logo="" group-title="BG - Bulgaria",[BG] Kanal 3
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151437
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Evrokom" tvg-logo="" group-title="BG - Bulgaria",[BG] Evrokom
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151438
+#EXTINF:-1 tvg-id="" tvg-name="[BG] E-Kids" tvg-logo="" group-title="BG - Bulgaria",[BG] E-Kids
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151439
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Duck TV" tvg-logo="" group-title="BG - Bulgaria",[BG] Duck TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151440
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Baby TV" tvg-logo="" group-title="BG - Bulgaria",[BG] Baby TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151441
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Nickelodeon" tvg-logo="" group-title="BG - Bulgaria",[BG] Nickelodeon
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151442
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Jim Jam" tvg-logo="" group-title="BG - Bulgaria",[BG] Jim Jam
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151443
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Disney Channel" tvg-logo="" group-title="BG - Bulgaria",[BG] Disney Channel
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151444
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Cartoon Network" tvg-logo="" group-title="BG - Bulgaria",[BG] Cartoon Network
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151445
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Code Fashion" tvg-logo="" group-title="BG - Bulgaria",[BG] Code Fashion
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151446
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Bulgaria 24" tvg-logo="" group-title="BG - Bulgaria",[BG] Bulgaria 24
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151447
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Bul on Air" tvg-logo="" group-title="BG - Bulgaria",[BG] Bul on Air
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151448
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Bloomberg" tvg-logo="" group-title="BG - Bulgaria",[BG] Bloomberg
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151449
+#EXTINF:-1 tvg-id="" tvg-name="[BG] TV Evropa" tvg-logo="" group-title="BG - Bulgaria",[BG] TV Evropa
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151450
+#EXTINF:-1 tvg-id="" tvg-name="[BG] TV Cherno" tvg-logo="" group-title="BG - Bulgaria",[BG] TV Cherno
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151451
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Outdoor Channel" tvg-logo="" group-title="BG - Bulgaria",[BG] Outdoor Channel
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151452
+#EXTINF:-1 tvg-id="" tvg-name="[BG] National Geographic HD" tvg-logo="" group-title="BG - Bulgaria",[BG] National Geographic HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151453
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Nat Geo Wild HD" tvg-logo="" group-title="BG - Bulgaria",[BG] Nat Geo Wild HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151454
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Discovery Channel" tvg-logo="" group-title="BG - Bulgaria",[BG] Discovery Channel
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151455
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Animal Planet" tvg-logo="" group-title="BG - Bulgaria",[BG] Animal Planet
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151456
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Hobby Lov" tvg-logo="" group-title="BG - Bulgaria",[BG] Hobby Lov
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151457
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Hobby HD TV" tvg-logo="" group-title="BG - Bulgaria",[BG] Hobby HD TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151458
+#EXTINF:-1 tvg-id="" tvg-name="[BG] History Channel" tvg-logo="" group-title="BG - Bulgaria",[BG] History Channel
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151459
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Food Network" tvg-logo="" group-title="BG - Bulgaria",[BG] Food Network
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151460
+#EXTINF:-1 tvg-id="" tvg-name="[BG] This is Bulgaria HD" tvg-logo="" group-title="BG - Bulgaria",[BG] This is Bulgaria HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151461
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Tiankov Folk" tvg-logo="" group-title="BG - Bulgaria",[BG] Tiankov Folk
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151462
+#EXTINF:-1 tvg-id="" tvg-name="[BG] The Voice" tvg-logo="" group-title="BG - Bulgaria",[BG] The Voice
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151463
+#EXTINF:-1 tvg-id="" tvg-name="[BG] TV Plus" tvg-logo="" group-title="BG - Bulgaria",[BG] TV Plus
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151464
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Magic TV" tvg-logo="" group-title="BG - Bulgaria",[BG] Magic TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151465
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Balkanika Music" tvg-logo="" group-title="BG - Bulgaria",[BG] Balkanika Music
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151466
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BG Music Channel HD" tvg-logo="" group-title="BG - Bulgaria",[BG] BG Music Channel HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151467
+#EXTINF:-1 tvg-id="" tvg-name="[BG] DSTV" tvg-logo="" group-title="BG - Bulgaria",[BG] DSTV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151468
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BG-DNES" tvg-logo="" group-title="BG - Bulgaria",[BG] BG-DNES
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151469
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Folklor TV" tvg-logo="" group-title="BG - Bulgaria",[BG] Folklor TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151470
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Fen TV" tvg-logo="" group-title="BG - Bulgaria",[BG] Fen TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151471
+#EXTINF:-1 tvg-id="" tvg-name="[BG] F Plus" tvg-logo="" group-title="BG - Bulgaria",[BG] F Plus
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151472
+#EXTINF:-1 tvg-id="" tvg-name="[BG] City TV" tvg-logo="" group-title="BG - Bulgaria",[BG] City TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151473
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Roma TV FHD" tvg-logo="" group-title="BG - Bulgaria",[BG] Roma TV FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151474
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Ring TV FHD" tvg-logo="" group-title="BG - Bulgaria",[BG] Ring TV FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151475
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Planeta HD" tvg-logo="" group-title="BG - Bulgaria",[BG] Planeta HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151476
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Planeta Folk" tvg-logo="" group-title="BG - Bulgaria",[BG] Planeta Folk
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151477
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Planeta" tvg-logo="" group-title="BG - Bulgaria",[BG] Planeta
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151478
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Box TV" tvg-logo="" group-title="BG - Bulgaria",[BG] Box TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151479
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Movie Star" tvg-logo="" group-title="BG - Bulgaria",[BG] Movie Star
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151480
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Filmbox Extra" tvg-logo="" group-title="BG - Bulgaria",[BG] Filmbox Extra
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151481
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Film Plus" tvg-logo="" group-title="BG - Bulgaria",[BG] Film Plus
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151482
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Action Plus HD" tvg-logo="" group-title="BG - Bulgaria",[BG] Action Plus HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151483
+#EXTINF:-1 tvg-id="" tvg-name="[BG] AXN" tvg-logo="" group-title="BG - Bulgaria",[BG] AXN
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151484
+#EXTINF:-1 tvg-id="" tvg-name="[BG] AMC" tvg-logo="" group-title="BG - Bulgaria",[BG] AMC
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151485
+#EXTINF:-1 tvg-id="" tvg-name="[BG] FilmBox Plus" tvg-logo="" group-title="BG - Bulgaria",[BG] FilmBox Plus
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151486
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Cinema Plus" tvg-logo="" group-title="BG - Bulgaria",[BG] Cinema Plus
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151487
+#EXTINF:-1 tvg-id="" tvg-name="[BG] CineMax 2" tvg-logo="" group-title="BG - Bulgaria",[BG] CineMax 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151488
+#EXTINF:-1 tvg-id="" tvg-name="[BG] CineMax 1" tvg-logo="" group-title="BG - Bulgaria",[BG] CineMax 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151489
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Comedy Plus" tvg-logo="" group-title="BG - Bulgaria",[BG] Comedy Plus
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151490
+#EXTINF:-1 tvg-id="" tvg-name="[BG] HBO 3 FHD" tvg-logo="" group-title="BG - Bulgaria",[BG] HBO 3 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151491
+#EXTINF:-1 tvg-id="" tvg-name="[BG] HBO 2 FHD" tvg-logo="" group-title="BG - Bulgaria",[BG] HBO 2 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151492
+#EXTINF:-1 tvg-id="" tvg-name="[BG] HBO 1" tvg-logo="" group-title="BG - Bulgaria",[BG] HBO 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151493
+#EXTINF:-1 tvg-id="" tvg-name="[BG] HBO FHD" tvg-logo="" group-title="BG - Bulgaria",[BG] HBO FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151494
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Fox Life" tvg-logo="" group-title="BG - Bulgaria",[BG] Fox Life
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151495
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Fox Crime" tvg-logo="" group-title="BG - Bulgaria",[BG] Fox Crime
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151496
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Fox" tvg-logo="" group-title="BG - Bulgaria",[BG] Fox
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151497
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Eurosport 2" tvg-logo="" group-title="BG - Bulgaria",[BG] Eurosport 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151498
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Eurosport 1 HD" tvg-logo="" group-title="BG - Bulgaria",[BG] Eurosport 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151499
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Sport Plus FHD" tvg-logo="" group-title="BG - Bulgaria",[BG] Sport Plus FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151500
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Auto Motor Sport" tvg-logo="" group-title="BG - Bulgaria",[BG] Auto Motor Sport
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151501
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Max Sport 4 HD" tvg-logo="" group-title="BG - Bulgaria",[BG] Max Sport 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151502
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Max Sport 3 HD" tvg-logo="" group-title="BG - Bulgaria",[BG] Max Sport 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151503
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Max Sport 2 HD" tvg-logo="" group-title="BG - Bulgaria",[BG] Max Sport 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151504
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Max Sport 1 HD" tvg-logo="" group-title="BG - Bulgaria",[BG] Max Sport 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151505
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Diema Sport 2" tvg-logo="" group-title="BG - Bulgaria",[BG] Diema Sport 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151506
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Diema Sport 1" tvg-logo="" group-title="BG - Bulgaria",[BG] Diema Sport 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151507
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Diema Family" tvg-logo="" group-title="BG - Bulgaria",[BG] Diema Family
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151508
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Diema TV" tvg-logo="" group-title="BG - Bulgaria",[BG] Diema TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151509
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Kino Nova" tvg-logo="" group-title="BG - Bulgaria",[BG] Kino Nova
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151510
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Nova Sport" tvg-logo="" group-title="BG - Bulgaria",[BG] Nova Sport
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151511
+#EXTINF:-1 tvg-id="" tvg-name="[BG] Nova TV" tvg-logo="" group-title="BG - Bulgaria",[BG] Nova TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151512
+#EXTINF:-1 tvg-id="" tvg-name="[BG] 24 Kitchen" tvg-logo="" group-title="BG - Bulgaria",[BG] 24 Kitchen
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151513
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BTV Lady" tvg-logo="" group-title="BG - Bulgaria",[BG] BTV Lady
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151514
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BTV Comedy" tvg-logo="" group-title="BG - Bulgaria",[BG] BTV Comedy
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151515
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BTV Cinema" tvg-logo="" group-title="BG - Bulgaria",[BG] BTV Cinema
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151516
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BTV Action" tvg-logo="" group-title="BG - Bulgaria",[BG] BTV Action
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151517
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BTV FHD" tvg-logo="" group-title="BG - Bulgaria",[BG] BTV FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151518
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BTV HD" tvg-logo="" group-title="BG - Bulgaria",[BG] BTV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151519
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BNT 4" tvg-logo="" group-title="BG - Bulgaria",[BG] BNT 4
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151520
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BNT 3" tvg-logo="" group-title="BG - Bulgaria",[BG] BNT 3
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151521
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BNT 2" tvg-logo="" group-title="BG - Bulgaria",[BG] BNT 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151522
+#EXTINF:-1 tvg-id="" tvg-name="[BG] BNT 1" tvg-logo="" group-title="BG - Bulgaria",[BG] BNT 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151523
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RAI 1 HD" tvg-logo="" group-title="IT  - Italian",[IT] RAI 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/151999
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RAI 2 HD" tvg-logo="" group-title="IT  - Italian",[IT] RAI 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152000
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RAI 3 HD" tvg-logo="" group-title="IT  - Italian",[IT] RAI 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152001
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RAI 4 HD" tvg-logo="" group-title="IT  - Italian",[IT] RAI 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152002
+#EXTINF:-1 tvg-id="" tvg-name="[IT] CANALE 5 HD" tvg-logo="" group-title="IT  - Italian",[IT] CANALE 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152003
+#EXTINF:-1 tvg-id="" tvg-name="[IT] LA 5 HD" tvg-logo="" group-title="IT  - Italian",[IT] LA 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152004
+#EXTINF:-1 tvg-id="" tvg-name="[IT] LA7 HD" tvg-logo="" group-title="IT  - Italian",[IT] LA7 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152005
+#EXTINF:-1 tvg-id="" tvg-name="[IT] ITALIA 1 HD" tvg-logo="" group-title="IT  - Italian",[IT] ITALIA 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152006
+#EXTINF:-1 tvg-id="" tvg-name="[IT] ITALIA 2 MEDIASET HD" tvg-logo="" group-title="IT  - Italian",[IT] ITALIA 2 MEDIASET HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152007
+#EXTINF:-1 tvg-id="" tvg-name="[IT] LA7D HD" tvg-logo="" group-title="IT  - Italian",[IT] LA7D HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152008
+#EXTINF:-1 tvg-id="" tvg-name="[IT] DISCOVERY HD" tvg-logo="" group-title="IT  - Italian",[IT] DISCOVERY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152009
+#EXTINF:-1 tvg-id="" tvg-name="[IT] DISCOVERY SCI HD" tvg-logo="" group-title="IT  - Italian",[IT] DISCOVERY SCI HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152010
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RAI 5 HD" tvg-logo="" group-title="IT  - Italian",[IT] RAI 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152011
+#EXTINF:-1 tvg-id="" tvg-name="[IT] DISNEY JUNIOR" tvg-logo="" group-title="IT  - Italian",[IT] DISNEY JUNIOR
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152012
+#EXTINF:-1 tvg-id="" tvg-name="[IT] DMAX HD" tvg-logo="" group-title="IT  - Italian",[IT] DMAX HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152013
+#EXTINF:-1 tvg-id="" tvg-name="[IT] FOX COMEDY HD" tvg-logo="" group-title="IT  - Italian",[IT] FOX COMEDY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152014
+#EXTINF:-1 tvg-id="" tvg-name="[IT] FOX CRIME HD" tvg-logo="" group-title="IT  - Italian",[IT] FOX CRIME HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152015
+#EXTINF:-1 tvg-id="" tvg-name="[IT] FOX HD" tvg-logo="" group-title="IT  - Italian",[IT] FOX HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152016
+#EXTINF:-1 tvg-id="" tvg-name="[IT] FOX LIFE HD" tvg-logo="" group-title="IT  - Italian",[IT] FOX LIFE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152017
+#EXTINF:-1 tvg-id="" tvg-name="[IT] HISTORY HD" tvg-logo="" group-title="IT  - Italian",[IT] HISTORY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152018
+#EXTINF:-1 tvg-id="" tvg-name="[IT] CIELO HD" tvg-logo="" group-title="IT  - Italian",[IT] CIELO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152019
+#EXTINF:-1 tvg-id="" tvg-name="[IT] Mediaset TG24 HD" tvg-logo="" group-title="IT  - Italian",[IT] Mediaset TG24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152020
+#EXTINF:-1 tvg-id="" tvg-name="[IT] MILAN CHANNEL" tvg-logo="" group-title="IT  - Italian",[IT] MILAN CHANNEL
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152021
+#EXTINF:-1 tvg-id="" tvg-name="[IT] NAT GEO WILD HD" tvg-logo="" group-title="IT  - Italian",[IT] NAT GEO WILD HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152022
+#EXTINF:-1 tvg-id="" tvg-name="[IT] NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="IT  - Italian",[IT] NATIONAL GEOGRAPHIC HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152023
+#EXTINF:-1 tvg-id="" tvg-name="[IT] PARAMOUNT HD" tvg-logo="" group-title="IT  - Italian",[IT] PARAMOUNT HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152024
+#EXTINF:-1 tvg-id="" tvg-name="[IT] PESCA E CACCIA" tvg-logo="" group-title="IT  - Italian",[IT] PESCA E CACCIA
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152025
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RAI GLUP" tvg-logo="" group-title="IT  - Italian",[IT] RAI GLUP
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152026
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RAI MOVIE HD" tvg-logo="" group-title="IT  - Italian",[IT] RAI MOVIE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152027
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RAI PREMIUM HD" tvg-logo="" group-title="IT  - Italian",[IT] RAI PREMIUM HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152028
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RAI SPORT 1 HD" tvg-logo="" group-title="IT  - Italian",[IT] RAI SPORT 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152029
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RAI YOYO" tvg-logo="" group-title="IT  - Italian",[IT] RAI YOYO
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152030
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RSI LA 1 HD" tvg-logo="" group-title="IT  - Italian",[IT] RSI LA 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152031
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RSI LA2 HD" tvg-logo="" group-title="IT  - Italian",[IT] RSI LA2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152032
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY UNO HD" tvg-logo="" group-title="IT - Cinema",[IT] SKY UNO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152033
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY CINEMA UNO HD" tvg-logo="" group-title="IT - Cinema",[IT] SKY CINEMA UNO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152034
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY CINEMA DUE HD" tvg-logo="" group-title="IT - Cinema",[IT] SKY CINEMA DUE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152035
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY CINEMA UNO +24 HD" tvg-logo="" group-title="IT - Cinema",[IT] SKY CINEMA UNO +24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152036
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY ATLANTIC HD" tvg-logo="" group-title="IT - Cinema",[IT] SKY ATLANTIC HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152037
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY Cinema Action HD" tvg-logo="" group-title="IT - Cinema",[IT] SKY Cinema Action HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152038
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY CINEMA COLLECTION HD" tvg-logo="" group-title="IT - Cinema",[IT] SKY CINEMA COLLECTION HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152039
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY CINEMA COMEDY HD" tvg-logo="" group-title="IT - Cinema",[IT] SKY CINEMA COMEDY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152040
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY CINEMA FAMILY HD" tvg-logo="" group-title="IT - Cinema",[IT] SKY CINEMA FAMILY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152041
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY CINEMA ROMANCE HD" tvg-logo="" group-title="IT - Cinema",[IT] SKY CINEMA ROMANCE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152042
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY CINEMA SUSPENSE HD" tvg-logo="" group-title="IT - Cinema",[IT] SKY CINEMA SUSPENSE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152043
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 1" tvg-logo="" group-title="IT - Cinema",[IT] SKY PRIMAFILA 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152044
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 2" tvg-logo="" group-title="IT - Cinema",[IT] SKY PRIMAFILA 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152045
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 3" tvg-logo="" group-title="IT - Cinema",[IT] SKY PRIMAFILA 3
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152046
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 4" tvg-logo="" group-title="IT - Cinema",[IT] SKY PRIMAFILA 4
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152047
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 5" tvg-logo="" group-title="IT - Cinema",[IT] SKY PRIMAFILA 5
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152048
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 6" tvg-logo="" group-title="IT - Cinema",[IT] SKY PRIMAFILA 6
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152049
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 7" tvg-logo="" group-title="IT - Cinema",[IT] SKY PRIMAFILA 7
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152050
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 8" tvg-logo="" group-title="IT - Cinema",[IT] SKY PRIMAFILA 8
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152051
+#EXTINF:-1 tvg-id="" tvg-name="[IT] PREMIUM ACTION HD" tvg-logo="" group-title="IT - Cinema",[IT] PREMIUM ACTION HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152052
+#EXTINF:-1 tvg-id="" tvg-name="[IT] PREMIUM CINEMA  24 HD" tvg-logo="" group-title="IT - Cinema",[IT] PREMIUM CINEMA  24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152053
+#EXTINF:-1 tvg-id="" tvg-name="[IT] PREMIUM CINEMA 24 HD" tvg-logo="" group-title="IT - Cinema",[IT] PREMIUM CINEMA 24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152054
+#EXTINF:-1 tvg-id="" tvg-name="[IT] PREMIUM CINEMA HD" tvg-logo="" group-title="IT - Cinema",[IT] PREMIUM CINEMA HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152055
+#EXTINF:-1 tvg-id="" tvg-name="[IT] PREMIUM COMEDY HD" tvg-logo="" group-title="IT - Cinema",[IT] PREMIUM COMEDY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152056
+#EXTINF:-1 tvg-id="" tvg-name="[IT] PREMIUM CRIME 24 HD" tvg-logo="" group-title="IT - Cinema",[IT] PREMIUM CRIME 24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152057
+#EXTINF:-1 tvg-id="" tvg-name="[IT] PREMIUM CRIME HD" tvg-logo="" group-title="IT - Cinema",[IT] PREMIUM CRIME HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152058
+#EXTINF:-1 tvg-id="" tvg-name="[IT] PREMIUM EMOTION HD" tvg-logo="" group-title="IT - Cinema",[IT] PREMIUM EMOTION HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152059
+#EXTINF:-1 tvg-id="" tvg-name="[IT] PREMIUM ENERGY HD" tvg-logo="" group-title="IT - Cinema",[IT] PREMIUM ENERGY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152060
+#EXTINF:-1 tvg-id="" tvg-name="[IT] DAZN HD" tvg-logo="" group-title="IT - Sport",[IT] DAZN HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152061
+#EXTINF:-1 tvg-id="" tvg-name="[IT] EUROSPORT 1 HD" tvg-logo="" group-title="IT - Sport",[IT] EUROSPORT 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152062
+#EXTINF:-1 tvg-id="" tvg-name="[IT] EUROSPORT 2 HD" tvg-logo="" group-title="IT - Sport",[IT] EUROSPORT 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152063
+#EXTINF:-1 tvg-id="" tvg-name="[IT] INTER CHANNEL" tvg-logo="" group-title="IT - Sport",[IT] INTER CHANNEL
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152064
+#EXTINF:-1 tvg-id="" tvg-name="[IT] JUVENTUS CHANNEL" tvg-logo="" group-title="IT - Sport",[IT] JUVENTUS CHANNEL
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152065
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT 24 HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT 24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152066
+#EXTINF:-1 tvg-id="" tvg-name="[IT] Sky Sport Uno HD" tvg-logo="" group-title="IT - Sport",[IT] Sky Sport Uno HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152067
+#EXTINF:-1 tvg-id="" tvg-name="[IT] Sky Sport Arena HD" tvg-logo="" group-title="IT - Sport",[IT] Sky Sport Arena HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152068
+#EXTINF:-1 tvg-id="" tvg-name="[IT] Sky Sport Seria A HD" tvg-logo="" group-title="IT - Sport",[IT] Sky Sport Seria A HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152069
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT FOOTBALL HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT FOOTBALL HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152070
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT COLLECTION HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT COLLECTION HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152071
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT NBA HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT NBA HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152072
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT F1 HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT F1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152073
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT MOTO GP HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT MOTO GP HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152074
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT 251 HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT 251 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152075
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT 252 HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT 252 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152076
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT 253 HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT 253 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152077
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT 254 HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT 254 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152078
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT 255 HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT 255 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152079
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY SPORT 256 HD" tvg-logo="" group-title="IT - Sport",[IT] SKY SPORT 256 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152080
+#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY TG 24 HD" tvg-logo="" group-title="IT - Sport",[IT] SKY TG 24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152081
+#EXTINF:-1 tvg-id="" tvg-name="---=== Poland ===---" tvg-logo="" group-title="PL - Poland",---=== Poland ===---
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152082
+#EXTINF:-1 tvg-id="" tvg-name="PL: 13 Ulica FHD" tvg-logo="" group-title="PL - Poland",PL: 13 Ulica FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152083
+#EXTINF:-1 tvg-id="" tvg-name="PL: 4Fun Dance" tvg-logo="" group-title="PL - Poland",PL: 4Fun Dance
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152084
+#EXTINF:-1 tvg-id="" tvg-name="PL: 4Fun Gold Hits" tvg-logo="" group-title="PL - Poland",PL: 4Fun Gold Hits
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152085
+#EXTINF:-1 tvg-id="" tvg-name="PL: 4Fun.TV" tvg-logo="" group-title="PL - Poland",PL: 4Fun.TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152086
+#EXTINF:-1 tvg-id="" tvg-name="PL: Ale kino HD" tvg-logo="" group-title="PL - Poland",PL: Ale kino HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152087
+#EXTINF:-1 tvg-id="" tvg-name="PL: AMC" tvg-logo="" group-title="PL - Poland",PL: AMC
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152088
+#EXTINF:-1 tvg-id="" tvg-name="PL: Animal Planet HD" tvg-logo="" group-title="PL - Poland",PL: Animal Planet HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152089
+#EXTINF:-1 tvg-id="" tvg-name="PL: AXN Black" tvg-logo="" group-title="PL - Poland",PL: AXN Black
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152090
+#EXTINF:-1 tvg-id="" tvg-name="PL: AXN HD" tvg-logo="" group-title="PL - Poland",PL: AXN HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152091
+#EXTINF:-1 tvg-id="" tvg-name="PL: AXN SPIN HD" tvg-logo="" group-title="PL - Poland",PL: AXN SPIN HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152092
+#EXTINF:-1 tvg-id="" tvg-name="PL: AXN White HD" tvg-logo="" group-title="PL - Poland",PL: AXN White HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152093
+#EXTINF:-1 tvg-id="" tvg-name="PL: BBC Earth HD" tvg-logo="" group-title="PL - Poland",PL: BBC Earth HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152094
+#EXTINF:-1 tvg-id="" tvg-name="PL: BBC FIRST HD" tvg-logo="" group-title="PL - Poland",PL: BBC FIRST HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152095
+#EXTINF:-1 tvg-id="" tvg-name="PL: Boomerang HD" tvg-logo="" group-title="PL - Poland",PL: Boomerang HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152096
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ DISCOVERY HD" tvg-logo="" group-title="PL - Poland",PL: CANAL+ DISCOVERY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152097
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ FAMILY HD" tvg-logo="" group-title="PL - Poland",PL: CANAL+ FAMILY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152098
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+HD" tvg-logo="" group-title="PL - Poland",PL: CANAL+HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152099
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ FILM HD" tvg-logo="" group-title="PL - Poland",PL: CANAL+ FILM HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152100
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ SERIALE HD" tvg-logo="" group-title="PL - Poland",PL: CANAL+ SERIALE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152101
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+SPORT 2 HD" tvg-logo="" group-title="PL - Poland",PL: CANAL+SPORT 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152102
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ SPORT HD" tvg-logo="" group-title="PL - Poland",PL: CANAL+ SPORT HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152103
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+1 HD" tvg-logo="" group-title="PL - Poland",PL: CANAL+1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152104
+#EXTINF:-1 tvg-id="" tvg-name="PL: Cartoon Network HD" tvg-logo="" group-title="PL - Poland",PL: Cartoon Network HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152105
+#EXTINF:-1 tvg-id="" tvg-name="PL: CBS Action" tvg-logo="" group-title="PL - Poland",PL: CBS Action
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152106
+#EXTINF:-1 tvg-id="" tvg-name="PL: CBS Europa HD" tvg-logo="" group-title="PL - Poland",PL: CBS Europa HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152107
+#EXTINF:-1 tvg-id="" tvg-name="PL: CBS Reality" tvg-logo="" group-title="PL - Poland",PL: CBS Reality
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152108
+#EXTINF:-1 tvg-id="" tvg-name="PL: CI Polsat FHD" tvg-logo="" group-title="PL - Poland",PL: CI Polsat FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152109
+#EXTINF:-1 tvg-id="" tvg-name="PL: Cinemax 2 HD" tvg-logo="" group-title="PL - Poland",PL: Cinemax 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152110
+#EXTINF:-1 tvg-id="" tvg-name="PL: Cinemax HD" tvg-logo="" group-title="PL - Poland",PL: Cinemax HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152111
+#EXTINF:-1 tvg-id="" tvg-name="PL: Comedy Central Family" tvg-logo="" group-title="PL - Poland",PL: Comedy Central Family
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152112
+#EXTINF:-1 tvg-id="" tvg-name="PL: Disco Polo Music" tvg-logo="" group-title="PL - Poland",PL: Disco Polo Music
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152113
+#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery HD" tvg-logo="" group-title="PL - Poland",PL: Discovery HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152114
+#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Historia" tvg-logo="" group-title="PL - Poland",PL: Discovery Historia
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152115
+#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Life HD" tvg-logo="" group-title="PL - Poland",PL: Discovery Life HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152116
+#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Science HD" tvg-logo="" group-title="PL - Poland",PL: Discovery Science HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152117
+#EXTINF:-1 tvg-id="" tvg-name="PL: Disney Channel HD" tvg-logo="" group-title="PL - Poland",PL: Disney Channel HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152118
+#EXTINF:-1 tvg-id="" tvg-name="PL: Disney Junior" tvg-logo="" group-title="PL - Poland",PL: Disney Junior
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152119
+#EXTINF:-1 tvg-id="" tvg-name="PL: Disney XD" tvg-logo="" group-title="PL - Poland",PL: Disney XD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152120
+#EXTINF:-1 tvg-id="" tvg-name="PL: DOMO HD" tvg-logo="" group-title="PL - Poland",PL: DOMO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152121
+#EXTINF:-1 tvg-id="" tvg-name="PL: DTX" tvg-logo="" group-title="PL - Poland",PL: DTX
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152122
+#EXTINF:-1 tvg-id="" tvg-name="PL: E! Entertainment" tvg-logo="" group-title="PL - Poland",PL: E! Entertainment
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152123
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 1 FHD" tvg-logo="" group-title="PL - Poland",PL: Eleven Sports 1 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152124
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="" group-title="PL - Poland",PL: Eleven Sports 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152125
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="" group-title="PL - Poland",PL: Eleven Sports 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152126
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PL - Poland",PL: ELEVEN SPORTS 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152127
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eska TV Extra" tvg-logo="" group-title="PL - Poland",PL: Eska TV Extra
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152128
+#EXTINF:-1 tvg-id="" tvg-name="PL: EskaROCK TV" tvg-logo="" group-title="PL - Poland",PL: EskaROCK TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152129
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eurosport 1 FHD" tvg-logo="" group-title="PL - Poland",PL: Eurosport 1 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152130
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eurosport 2 HD" tvg-logo="" group-title="PL - Poland",PL: Eurosport 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152131
+#EXTINF:-1 tvg-id="" tvg-name="PL: Extreme Sports HD" tvg-logo="" group-title="PL - Poland",PL: Extreme Sports HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152132
+#EXTINF:-1 tvg-id="" tvg-name="PL: Fightbox HD" tvg-logo="" group-title="PL - Poland",PL: Fightbox HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152133
+#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Action" tvg-logo="" group-title="PL - Poland",PL: FilmBox Action
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152134
+#EXTINF:-1 tvg-id="" tvg-name="PL: Filmbox Arthouse" tvg-logo="" group-title="PL - Poland",PL: Filmbox Arthouse
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152135
+#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Extra" tvg-logo="" group-title="PL - Poland",PL: FilmBox Extra
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152136
+#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Family" tvg-logo="" group-title="PL - Poland",PL: FilmBox Family
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152137
+#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Premium HD" tvg-logo="" group-title="PL - Poland",PL: FilmBox Premium HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152138
+#EXTINF:-1 tvg-id="" tvg-name="PL: Food Network HD" tvg-logo="" group-title="PL - Poland",PL: Food Network HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152139
+#EXTINF:-1 tvg-id="" tvg-name="PL: Fox Comedy" tvg-logo="" group-title="PL - Poland",PL: Fox Comedy
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152140
+#EXTINF:-1 tvg-id="" tvg-name="PL: FOX HD" tvg-logo="" group-title="PL - Poland",PL: FOX HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152141
+#EXTINF:-1 tvg-id="" tvg-name="PL: Golf Channel" tvg-logo="" group-title="PL - Poland",PL: Golf Channel
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152142
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO HD" tvg-logo="" group-title="PL - Poland",PL: HBO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152143
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO2 HD" tvg-logo="" group-title="PL - Poland",PL: HBO2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152144
+#EXTINF:-1 tvg-id="" tvg-name="PL: HBO3 HD" tvg-logo="" group-title="PL - Poland",PL: HBO3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152145
+#EXTINF:-1 tvg-id="" tvg-name="PL: HGTV" tvg-logo="" group-title="PL - Poland",PL: HGTV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152146
+#EXTINF:-1 tvg-id="" tvg-name="PL: History HD" tvg-logo="" group-title="PL - Poland",PL: History HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152147
+#EXTINF:-1 tvg-id="" tvg-name="PL: ID HD" tvg-logo="" group-title="PL - Poland",PL: ID HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152148
+#EXTINF:-1 tvg-id="" tvg-name="PL: JASNA GORA" tvg-logo="" group-title="PL - Poland",PL: JASNA GORA
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152149
+#EXTINF:-1 tvg-id="" tvg-name="PL: KINO POLSKA HD" tvg-logo="" group-title="PL - Poland",PL: KINO POLSKA HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152150
+#EXTINF:-1 tvg-id="" tvg-name="PL: Kino TV" tvg-logo="" group-title="PL - Poland",PL: Kino TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152151
+#EXTINF:-1 tvg-id="" tvg-name="PL: Kuchnia  HD" tvg-logo="" group-title="PL - Poland",PL: Kuchnia  HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152152
+#EXTINF:-1 tvg-id="" tvg-name="PL: Lifetime HD" tvg-logo="" group-title="PL - Poland",PL: Lifetime HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152153
+#EXTINF:-1 tvg-id="" tvg-name="PL: Mango 24" tvg-logo="" group-title="PL - Poland",PL: Mango 24
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152154
+#EXTINF:-1 tvg-id="" tvg-name="PL: MiniMini  HD" tvg-logo="" group-title="PL - Poland",PL: MiniMini  HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152155
+#EXTINF:-1 tvg-id="" tvg-name="PL: Motowizja HD" tvg-logo="" group-title="PL - Poland",PL: Motowizja HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152156
+#EXTINF:-1 tvg-id="" tvg-name="PL: Nat Geo People HD" tvg-logo="" group-title="PL - Poland",PL: Nat Geo People HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152157
+#EXTINF:-1 tvg-id="" tvg-name="PL: Nat Geo Wild HD" tvg-logo="" group-title="PL - Poland",PL: Nat Geo Wild HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152158
+#EXTINF:-1 tvg-id="" tvg-name="PL: NATIONAL GEO HD" tvg-logo="" group-title="PL - Poland",PL: NATIONAL GEO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152159
+#EXTINF:-1 tvg-id="" tvg-name="PL: NC  RADIO" tvg-logo="" group-title="PL - Poland",PL: NC  RADIO
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152160
+#EXTINF:-1 tvg-id="" tvg-name="PL: NC_PR" tvg-logo="" group-title="PL - Poland",PL: NC_PR
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152161
+#EXTINF:-1 tvg-id="" tvg-name="PL: Nowa TV" tvg-logo="" group-title="PL - Poland",PL: Nowa TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152162
+#EXTINF:-1 tvg-id="" tvg-name="PL: nSport" tvg-logo="" group-title="PL - Poland",PL: nSport
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152163
+#EXTINF:-1 tvg-id="" tvg-name="PL: NTL" tvg-logo="" group-title="PL - Poland",PL: NTL
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152164
+#EXTINF:-1 tvg-id="" tvg-name="PL: NUTA TV" tvg-logo="" group-title="PL - Poland",PL: NUTA TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152165
+#EXTINF:-1 tvg-id="" tvg-name="PL: Planete  FHD" tvg-logo="" group-title="PL - Poland",PL: Planete  FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152166
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polo TV" tvg-logo="" group-title="PL - Poland",PL: Polo TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152167
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat 2 HD" tvg-logo="" group-title="PL - Poland",PL: Polsat 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152168
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Cafe FHD" tvg-logo="" group-title="PL - Poland",PL: Polsat Cafe FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152169
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Doku FHD" tvg-logo="" group-title="PL - Poland",PL: Polsat Doku FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152170
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat HD" tvg-logo="" group-title="PL - Poland",PL: Polsat HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152171
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Film FHD" tvg-logo="" group-title="PL - Poland",PL: Polsat Film FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152172
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Jim Jam" tvg-logo="" group-title="PL - Poland",PL: Polsat Jim Jam
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152173
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Music HD" tvg-logo="" group-title="PL - Poland",PL: Polsat Music HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152174
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat News 2" tvg-logo="" group-title="PL - Poland",PL: Polsat News 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152175
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat News HD" tvg-logo="" group-title="PL - Poland",PL: Polsat News HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152176
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Play HD" tvg-logo="" group-title="PL - Poland",PL: Polsat Play HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152177
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Romans" tvg-logo="" group-title="PL - Poland",PL: Polsat Romans
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152178
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Extra FHD" tvg-logo="" group-title="PL - Poland",PL: Polsat Sport Extra FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152179
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport HD" tvg-logo="" group-title="PL - Poland",PL: Polsat Sport HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152180
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Fight HD" tvg-logo="" group-title="PL - Poland",PL: Polsat Sport Fight HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152181
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport News HD" tvg-logo="" group-title="PL - Poland",PL: Polsat Sport News HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152182
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 1 HD" tvg-logo="" group-title="PL - Poland",PL: Polsat Sport Premium 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152183
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 2 HD" tvg-logo="" group-title="PL - Poland",PL: Polsat Sport Premium 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152184
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat Explore HD" tvg-logo="" group-title="PL - Poland",PL: Polsat Viasat Explore HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152185
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat History HD" tvg-logo="" group-title="PL - Poland",PL: Polsat Viasat History HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152186
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat Nature HD" tvg-logo="" group-title="PL - Poland",PL: Polsat Viasat Nature HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152187
+#EXTINF:-1 tvg-id="" tvg-name="PL: POWER TV" tvg-logo="" group-title="PL - Poland",PL: POWER TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152188
+#EXTINF:-1 tvg-id="" tvg-name="PL: Puls 2" tvg-logo="" group-title="PL - Poland",PL: Puls 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152189
+#EXTINF:-1 tvg-id="" tvg-name="PL: Red Carpet TV" tvg-logo="" group-title="PL - Poland",PL: Red Carpet TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152190
+#EXTINF:-1 tvg-id="" tvg-name="PL: Romance TV" tvg-logo="" group-title="PL - Poland",PL: Romance TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152191
+#EXTINF:-1 tvg-id="" tvg-name="PL: SciFi FHD" tvg-logo="" group-title="PL - Poland",PL: SciFi FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152192
+#EXTINF:-1 tvg-id="" tvg-name="PL: STARS.TV" tvg-logo="" group-title="PL - Poland",PL: STARS.TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152193
+#EXTINF:-1 tvg-id="" tvg-name="PL: StopklatkaTV" tvg-logo="" group-title="PL - Poland",PL: StopklatkaTV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152194
+#EXTINF:-1 tvg-id="" tvg-name="PL: Super Polsat" tvg-logo="" group-title="PL - Poland",PL: Super Polsat
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152195
+#EXTINF:-1 tvg-id="" tvg-name="PL: Superstacja" tvg-logo="" group-title="PL - Poland",PL: Superstacja
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152196
+#EXTINF:-1 tvg-id="" tvg-name="PL: teleTOON  HD" tvg-logo="" group-title="PL - Poland",PL: teleTOON  HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152197
+#EXTINF:-1 tvg-id="" tvg-name="PL: teleTOON  HD" tvg-logo="" group-title="PL - Poland",PL: teleTOON  HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152198
+#EXTINF:-1 tvg-id="" tvg-name="PL: TLC HD" tvg-logo="" group-title="PL - Poland",PL: TLC HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152199
+#EXTINF:-1 tvg-id="" tvg-name="PL: TNT HD" tvg-logo="" group-title="PL - Poland",PL: TNT HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152200
+#EXTINF:-1 tvg-id="" tvg-name="PL: Travel Channel HD" tvg-logo="" group-title="PL - Poland",PL: Travel Channel HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152201
+#EXTINF:-1 tvg-id="" tvg-name="PL: TTV HD" tvg-logo="" group-title="PL - Poland",PL: TTV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152202
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV Okazje" tvg-logo="" group-title="PL - Poland",PL: TV Okazje
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152203
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV PULS HD" tvg-logo="" group-title="PL - Poland",PL: TV PULS HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152204
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV4 HD" tvg-logo="" group-title="PL - Poland",PL: TV4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152205
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV6" tvg-logo="" group-title="PL - Poland",PL: TV6
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152206
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN 24 FHD" tvg-logo="" group-title="PL - Poland",PL: TVN 24 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152207
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN 7 FHD" tvg-logo="" group-title="PL - Poland",PL: TVN 7 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152208
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Fabula" tvg-logo="" group-title="PL - Poland",PL: TVN Fabula
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152209
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN FHD" tvg-logo="" group-title="PL - Poland",PL: TVN FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152210
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Style" tvg-logo="" group-title="PL - Poland",PL: TVN Style
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152211
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Turbo" tvg-logo="" group-title="PL - Poland",PL: TVN Turbo
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152212
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN24 BiS HD" tvg-logo="" group-title="PL - Poland",PL: TVN24 BiS HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152213
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 1 HD" tvg-logo="" group-title="PL - Poland",PL: TVP 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152214
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 2 HD" tvg-logo="" group-title="PL - Poland",PL: TVP 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152215
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 3" tvg-logo="" group-title="PL - Poland",PL: TVP 3
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152216
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP ABC" tvg-logo="" group-title="PL - Poland",PL: TVP ABC
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152217
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP HD" tvg-logo="" group-title="PL - Poland",PL: TVP HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152218
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Historia" tvg-logo="" group-title="PL - Poland",PL: TVP Historia
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152219
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP INFO HD" tvg-logo="" group-title="PL - Poland",PL: TVP INFO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152220
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Kultura" tvg-logo="" group-title="PL - Poland",PL: TVP Kultura
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152221
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Polonia" tvg-logo="" group-title="PL - Poland",PL: TVP Polonia
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152222
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP SERIALE" tvg-logo="" group-title="PL - Poland",PL: TVP SERIALE
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152223
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Sport FHD" tvg-logo="" group-title="PL - Poland",PL: TVP Sport FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152224
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVS" tvg-logo="" group-title="PL - Poland",PL: TVS
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152225
+#EXTINF:-1 tvg-id="" tvg-name="PL: VOX MUSIC TV" tvg-logo="" group-title="PL - Poland",PL: VOX MUSIC TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152226
+#EXTINF:-1 tvg-id="" tvg-name="PL: WP" tvg-logo="" group-title="PL - Poland",PL: WP
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152227
+#EXTINF:-1 tvg-id="" tvg-name="----=== France ===----" tvg-logo="" group-title="FR - France",----=== France ===----
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152228
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Canal + HD" tvg-logo="" group-title="FR - France",[FR] Canal + HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152229
+#EXTINF:-1 tvg-id="" tvg-name="[FR]  TF1 SERIES FILMS HD" tvg-logo="" group-title="FR - France",[FR]  TF1 SERIES FILMS HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152230
+#EXTINF:-1 tvg-id="" tvg-name="[FR] 13EME RUE HD" tvg-logo="" group-title="FR - France",[FR] 13EME RUE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152231
+#EXTINF:-1 tvg-id="" tvg-name="[FR] 6TER HD" tvg-logo="" group-title="FR - France",[FR] 6TER HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152232
+#EXTINF:-1 tvg-id="" tvg-name="[FR] AB MOTEUR HD" tvg-logo="" group-title="FR - France",[FR] AB MOTEUR HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152233
+#EXTINF:-1 tvg-id="" tvg-name="[FR] AB MOTEURS HD" tvg-logo="" group-title="FR - France",[FR] AB MOTEURS HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152234
+#EXTINF:-1 tvg-id="" tvg-name="[FR] AB1 HD" tvg-logo="" group-title="FR - France",[FR] AB1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152235
+#EXTINF:-1 tvg-id="" tvg-name="[FR] ACTION HD" tvg-logo="" group-title="FR - France",[FR] ACTION HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152236
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Animaux HD" tvg-logo="" group-title="FR - France",[FR] Animaux HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152237
+#EXTINF:-1 tvg-id="" tvg-name="[FR] ARTE HD" tvg-logo="" group-title="FR - France",[FR] ARTE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152238
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN MAX 4 HD" tvg-logo="" group-title="FR - France",[FR] BEIN MAX 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152239
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN MAX 5 HD" tvg-logo="" group-title="FR - France",[FR] BEIN MAX 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152240
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN MAX 6 HD" tvg-logo="" group-title="FR - France",[FR] BEIN MAX 6 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152241
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN MAX 7 HD" tvg-logo="" group-title="FR - France",[FR] BEIN MAX 7 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152242
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN MAX 8 HD" tvg-logo="" group-title="FR - France",[FR] BEIN MAX 8 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152243
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN MAX 9 HD" tvg-logo="" group-title="FR - France",[FR] BEIN MAX 9 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152244
+#EXTINF:-1 tvg-id="" tvg-name="[FR] beIN Sport 1 HD" tvg-logo="" group-title="FR - France",[FR] beIN Sport 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152245
+#EXTINF:-1 tvg-id="" tvg-name="[FR] beIN Sport 2 HD" tvg-logo="" group-title="FR - France",[FR] beIN Sport 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152246
+#EXTINF:-1 tvg-id="" tvg-name="[FR] beIN Sport 3 HD" tvg-logo="" group-title="FR - France",[FR] beIN Sport 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152247
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BFM TV HD" tvg-logo="" group-title="FR - France",[FR] BFM TV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152248
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BOX OFFICE  1" tvg-logo="" group-title="FR - France",[FR] BOX OFFICE  1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152249
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BOX OFFICE  2" tvg-logo="" group-title="FR - France",[FR] BOX OFFICE  2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152250
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BOX OFFICE  3" tvg-logo="" group-title="FR - France",[FR] BOX OFFICE  3
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152251
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BOX OFFICE  4" tvg-logo="" group-title="FR - France",[FR] BOX OFFICE  4
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152252
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BOX OFFICE  5" tvg-logo="" group-title="FR - France",[FR] BOX OFFICE  5
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152253
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BOX OFFICE  6" tvg-logo="" group-title="FR - France",[FR] BOX OFFICE  6
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152254
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BOX OFFICE  7" tvg-logo="" group-title="FR - France",[FR] BOX OFFICE  7
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152255
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BOX OFFICE  8" tvg-logo="" group-title="FR - France",[FR] BOX OFFICE  8
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152256
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BOX OFFICE  9" tvg-logo="" group-title="FR - France",[FR] BOX OFFICE  9
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152257
+#EXTINF:-1 tvg-id="" tvg-name="[FR] C News HD" tvg-logo="" group-title="FR - France",[FR] C News HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152258
+#EXTINF:-1 tvg-id="" tvg-name="[FR] C8 HD" tvg-logo="" group-title="FR - France",[FR] C8 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152259
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CANAL  CINEMA HD" tvg-logo="" group-title="FR - France",[FR] CANAL  CINEMA HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152260
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Canal  Sport HD" tvg-logo="" group-title="FR - France",[FR] Canal  Sport HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152261
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CANAL FAMILY" tvg-logo="" group-title="FR - France",[FR] CANAL FAMILY
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152262
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CANAL SERIE HD" tvg-logo="" group-title="FR - France",[FR] CANAL SERIE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152263
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CANALJ HD" tvg-logo="" group-title="FR - France",[FR] CANALJ HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152264
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CARTOON NETWORK" tvg-logo="" group-title="FR - France",[FR] CARTOON NETWORK
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152265
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Chasse & Peche HD" tvg-logo="" group-title="FR - France",[FR] Chasse & Peche HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152266
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CHERIE 25" tvg-logo="" group-title="FR - France",[FR] CHERIE 25
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152267
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  PREMIER" tvg-logo="" group-title="FR - France",[FR] CINE  PREMIER
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152268
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE EMOTION" tvg-logo="" group-title="FR - France",[FR] CINE EMOTION
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152269
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE FAMIZ" tvg-logo="" group-title="FR - France",[FR] CINE FAMIZ
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152270
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE FRISSON HD" tvg-logo="" group-title="FR - France",[FR] CINE FRISSON HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152271
+#EXTINF:-1 tvg-id="" tvg-name="[FR] COMEDIE  HD" tvg-logo="" group-title="FR - France",[FR] COMEDIE  HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152272
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Crime District HD" tvg-logo="" group-title="FR - France",[FR] Crime District HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152273
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CSTAR" tvg-logo="" group-title="FR - France",[FR] CSTAR
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152274
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Discovery Channel HD" tvg-logo="" group-title="FR - France",[FR] Discovery Channel HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152275
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Discovery Science HD" tvg-logo="" group-title="FR - France",[FR] Discovery Science HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152276
+#EXTINF:-1 tvg-id="" tvg-name="[FR] E! ENTERTAINMENT HD" tvg-logo="" group-title="FR - France",[FR] E! ENTERTAINMENT HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152277
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Equidia Live HD" tvg-logo="" group-title="FR - France",[FR] Equidia Live HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152278
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Equipe 21 HD" tvg-logo="" group-title="FR - France",[FR] Equipe 21 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152279
+#EXTINF:-1 tvg-id="" tvg-name="[FR] EURONEWS HD" tvg-logo="" group-title="FR - France",[FR] EURONEWS HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152280
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Eurosport 1 HD" tvg-logo="" group-title="FR - France",[FR] Eurosport 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152281
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Eurosport 2 HD" tvg-logo="" group-title="FR - France",[FR] Eurosport 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152282
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Foot +24/24 HD" tvg-logo="" group-title="FR - France",[FR] Foot +24/24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152283
+#EXTINF:-1 tvg-id="" tvg-name="[FR] FRANCE 2 HD" tvg-logo="" group-title="FR - France",[FR] FRANCE 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152284
+#EXTINF:-1 tvg-id="" tvg-name="[FR] FRANCE 3 HD" tvg-logo="" group-title="FR - France",[FR] FRANCE 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152285
+#EXTINF:-1 tvg-id="" tvg-name="[FR] FRANCE 4 HD" tvg-logo="" group-title="FR - France",[FR] FRANCE 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152286
+#EXTINF:-1 tvg-id="" tvg-name="[FR] FRANCE 5 HD" tvg-logo="" group-title="FR - France",[FR] FRANCE 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152287
+#EXTINF:-1 tvg-id="" tvg-name="[FR] FRANCE O HD" tvg-logo="" group-title="FR - France",[FR] FRANCE O HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152288
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Golf + HD" tvg-logo="" group-title="FR - France",[FR] Golf + HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152289
+#EXTINF:-1 tvg-id="" tvg-name="[FR] HISTOIRE HD" tvg-logo="" group-title="FR - France",[FR] HISTOIRE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152290
+#EXTINF:-1 tvg-id="" tvg-name="[FR] InfoSport HD" tvg-logo="" group-title="FR - France",[FR] InfoSport HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152291
+#EXTINF:-1 tvg-id="" tvg-name="[FR] LCI" tvg-logo="" group-title="FR - France",[FR] LCI
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152292
+#EXTINF:-1 tvg-id="" tvg-name="[FR] LCI HD" tvg-logo="" group-title="FR - France",[FR] LCI HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152293
+#EXTINF:-1 tvg-id="" tvg-name="[FR] M6 HD" tvg-logo="" group-title="FR - France",[FR] M6 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152294
+#EXTINF:-1 tvg-id="" tvg-name="[FR] NAT GEO HD" tvg-logo="" group-title="FR - France",[FR] NAT GEO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152295
+#EXTINF:-1 tvg-id="" tvg-name="[FR] NAT GEO Wild HD" tvg-logo="" group-title="FR - France",[FR] NAT GEO Wild HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152296
+#EXTINF:-1 tvg-id="" tvg-name="[FR] NRJ HITS" tvg-logo="" group-title="FR - France",[FR] NRJ HITS
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152297
+#EXTINF:-1 tvg-id="" tvg-name="[FR] NRJ12 HD" tvg-logo="" group-title="FR - France",[FR] NRJ12 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152298
+#EXTINF:-1 tvg-id="" tvg-name="[FR] NUMERO 23 HD" tvg-logo="" group-title="FR - France",[FR] NUMERO 23 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152299
+#EXTINF:-1 tvg-id="" tvg-name="[FR] OCS CHOC HD" tvg-logo="" group-title="FR - France",[FR] OCS CHOC HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152300
+#EXTINF:-1 tvg-id="" tvg-name="[FR] OCS CITY HD" tvg-logo="" group-title="FR - France",[FR] OCS CITY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152301
+#EXTINF:-1 tvg-id="" tvg-name="[FR] OCS GEANT HD" tvg-logo="" group-title="FR - France",[FR] OCS GEANT HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152302
+#EXTINF:-1 tvg-id="" tvg-name="[FR] OCS MAX HD" tvg-logo="" group-title="FR - France",[FR] OCS MAX HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152303
+#EXTINF:-1 tvg-id="" tvg-name="[FR] OL TV HD" tvg-logo="" group-title="FR - France",[FR] OL TV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152304
+#EXTINF:-1 tvg-id="" tvg-name="[FR] PARAMOUNT CHANEL HD" tvg-logo="" group-title="FR - France",[FR] PARAMOUNT CHANEL HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152305
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Paramount Channel HD" tvg-logo="" group-title="FR - France",[FR] Paramount Channel HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152306
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Paramount decale HD" tvg-logo="" group-title="FR - France",[FR] Paramount decale HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152307
+#EXTINF:-1 tvg-id="" tvg-name="[FR] PLANETE   HD" tvg-logo="" group-title="FR - France",[FR] PLANETE   HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152308
+#EXTINF:-1 tvg-id="" tvg-name="[FR] PLANETE A&E HD" tvg-logo="" group-title="FR - France",[FR] PLANETE A&E HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152309
+#EXTINF:-1 tvg-id="" tvg-name="[FR] PLANETE CI HD" tvg-logo="" group-title="FR - France",[FR] PLANETE CI HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152310
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC DECOUVERTE" tvg-logo="" group-title="FR - France",[FR] RMC DECOUVERTE
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152311
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport 1 HD" tvg-logo="" group-title="FR - France",[FR] RMC Sport 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152312
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport 2 HD" tvg-logo="" group-title="FR - France",[FR] RMC Sport 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152313
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport 3 HD" tvg-logo="" group-title="FR - France",[FR] RMC Sport 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152314
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport 4 HD" tvg-logo="" group-title="FR - France",[FR] RMC Sport 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152315
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RTL9" tvg-logo="" group-title="FR - France",[FR] RTL9
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152316
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Science et Vie HD" tvg-logo="" group-title="FR - France",[FR] Science et Vie HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152317
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Seasons HD" tvg-logo="" group-title="FR - France",[FR] Seasons HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152318
+#EXTINF:-1 tvg-id="" tvg-name="[FR] SERIE CLUB HD" tvg-logo="" group-title="FR - France",[FR] SERIE CLUB HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152319
+#EXTINF:-1 tvg-id="" tvg-name="[FR] SYFY HD" tvg-logo="" group-title="FR - France",[FR] SYFY HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152320
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TCM HD" tvg-logo="" group-title="FR - France",[FR] TCM HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152321
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TF1 HD" tvg-logo="" group-title="FR - France",[FR] TF1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152322
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TFX HD" tvg-logo="" group-title="FR - France",[FR] TFX HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152323
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TMC HD" tvg-logo="" group-title="FR - France",[FR] TMC HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152324
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Toute L histoire HD" tvg-logo="" group-title="FR - France",[FR] Toute L histoire HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152325
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TREK HD" tvg-logo="" group-title="FR - France",[FR] TREK HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152326
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TV5 MONDE HD" tvg-logo="" group-title="FR - France",[FR] TV5 MONDE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152327
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Ushuaia TV HD" tvg-logo="" group-title="FR - France",[FR] Ushuaia TV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152328
+#EXTINF:-1 tvg-id="" tvg-name="[FR] VOYAGE HD" tvg-logo="" group-title="FR - France",[FR] VOYAGE HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152329
+#EXTINF:-1 tvg-id="" tvg-name="[FR] W9 HD" tvg-logo="" group-title="FR - France",[FR] W9 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152330
+#EXTINF:-1 tvg-id="" tvg-name="---=== Portugal===---" tvg-logo="" group-title="PT - Portugal",---=== Portugal===---
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152331
+#EXTINF:-1 tvg-id="" tvg-name="PT: A Bola TV" tvg-logo="" group-title="PT - Portugal",PT: A Bola TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152332
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC FHD" tvg-logo="" group-title="PT - Portugal",PT: AMC FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152333
+#EXTINF:-1 tvg-id="" tvg-name="PT: ARTV" tvg-logo="" group-title="PT - Portugal",PT: ARTV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152334
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN Black FHD" tvg-logo="" group-title="PT - Portugal",PT: AXN Black FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152335
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN FHD" tvg-logo="" group-title="PT - Portugal",PT: AXN FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152336
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN White FHD" tvg-logo="" group-title="PT - Portugal",PT: AXN White FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152337
+#EXTINF:-1 tvg-id="" tvg-name="PT: Baby TV" tvg-logo="" group-title="PT - Portugal",PT: Baby TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152338
+#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV" tvg-logo="" group-title="PT - Portugal",PT: Benfica TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152339
+#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV FHD" tvg-logo="" group-title="PT - Portugal",PT: Benfica TV FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152340
+#EXTINF:-1 tvg-id="" tvg-name="PT: Biggs" tvg-logo="" group-title="PT - Portugal",PT: Biggs
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152341
+#EXTINF:-1 tvg-id="" tvg-name="PT: Blaze" tvg-logo="" group-title="PT - Portugal",PT: Blaze
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152342
+#EXTINF:-1 tvg-id="" tvg-name="PT: Blaze FHD" tvg-logo="" group-title="PT - Portugal",PT: Blaze FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152343
+#EXTINF:-1 tvg-id="" tvg-name="PT: Boomerang" tvg-logo="" group-title="PT - Portugal",PT: Boomerang
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152344
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 FHD" tvg-logo="" group-title="PT - Portugal",PT: CANAL 11 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152345
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Q" tvg-logo="" group-title="PT - Portugal",PT: Canal Q
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152346
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cartoon Network" tvg-logo="" group-title="PT - Portugal",PT: Cartoon Network
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152347
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBS Reality" tvg-logo="" group-title="PT - Portugal",PT: CBS Reality
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152348
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title="PT - Portugal",PT: CINEMUNDO FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152349
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV FHD" tvg-logo="" group-title="PT - Portugal",PT: CMTV FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152350
+#EXTINF:-1 tvg-id="" tvg-name="PT: Crime & Investigation" tvg-logo="" group-title="PT - Portugal",PT: Crime & Investigation
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152351
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="PT - Portugal",PT: DISCOVERY CHANNEL FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152352
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Channel" tvg-logo="" group-title="PT - Portugal",PT: Disney Channel
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152353
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Junior" tvg-logo="" group-title="PT - Portugal",PT: Disney Junior
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152354
+#EXTINF:-1 tvg-id="" tvg-name="PT: Dog TV" tvg-logo="" group-title="PT - Portugal",PT: Dog TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152355
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! FHD" tvg-logo="" group-title="PT - Portugal",PT: E! FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152356
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152357
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 1 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152358
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152359
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 2 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152360
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 3
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152361
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 3 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152362
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 4
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152363
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 4 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152364
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 5
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152365
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 5 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152366
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152367
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 6
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152368
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="PT - Portugal",PT: ELEVEN SPORTS 6 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152369
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 1" tvg-logo="" group-title="PT - Portugal",PT: Eurosport 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152370
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fine Living Network FHD" tvg-logo="" group-title="PT - Portugal",PT: Fine Living Network FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152371
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Comedy FHD" tvg-logo="" group-title="PT - Portugal",PT: FOX Comedy FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152372
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Crime FHD" tvg-logo="" group-title="PT - Portugal",PT: FOX Crime FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152373
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX FHD" tvg-logo="" group-title="PT - Portugal",PT: FOX FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152374
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Life FHD" tvg-logo="" group-title="PT - Portugal",PT: FOX Life FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152375
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Movies FHD" tvg-logo="" group-title="PT - Portugal",PT: Fox Movies FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152376
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fuel TV FHD" tvg-logo="" group-title="PT - Portugal",PT: Fuel TV FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152377
+#EXTINF:-1 tvg-id="" tvg-name="PT: Hollywood FHD" tvg-logo="" group-title="PT - Portugal",PT: Hollywood FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152378
+#EXTINF:-1 tvg-id="" tvg-name="PT: ID INVESTIGATION DISCOVERY FHD" tvg-logo="" group-title="PT - Portugal",PT: ID INVESTIGATION DISCOVERY FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152379
+#EXTINF:-1 tvg-id="" tvg-name="PT: Jim Jam" tvg-logo="" group-title="PT - Portugal",PT: Jim Jam
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152380
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kombat Sport" tvg-logo="" group-title="PT - Portugal",PT: Kombat Sport
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152381
+#EXTINF:-1 tvg-id="" tvg-name="PT: Motorvision FHD" tvg-logo="" group-title="PT - Portugal",PT: Motorvision FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152382
+#EXTINF:-1 tvg-id="" tvg-name="PT: National Geographic FHD" tvg-logo="" group-title="PT - Portugal",PT: National Geographic FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152383
+#EXTINF:-1 tvg-id="" tvg-name="PT: National Geographic Wild" tvg-logo="" group-title="PT - Portugal",PT: National Geographic Wild
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152384
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICK JR" tvg-logo="" group-title="PT - Portugal",PT: NICK JR
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152385
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nickelodeon" tvg-logo="" group-title="PT - Portugal",PT: Nickelodeon
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152386
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="" group-title="PT - Portugal",PT: NOS STUDIOS FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152387
+#EXTINF:-1 tvg-id="" tvg-name="PT: OUTDOOR FHD" tvg-logo="" group-title="PT - Portugal",PT: OUTDOOR FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152388
+#EXTINF:-1 tvg-id="" tvg-name="PT: Panda" tvg-logo="" group-title="PT - Portugal",PT: Panda
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152389
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC" tvg-logo="" group-title="PT - Portugal",PT: PFC
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152390
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="PT - Portugal",PT: RTP 1 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152391
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="" group-title="PT - Portugal",PT: RTP 2 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152392
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 FHD" tvg-logo="" group-title="PT - Portugal",PT: RTP 3 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152393
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Madeira" tvg-logo="" group-title="PT - Portugal",PT: RTP Madeira
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152394
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Memoria" tvg-logo="" group-title="PT - Portugal",PT: RTP Memoria
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152395
+#EXTINF:-1 tvg-id="" tvg-name="PT: SAUDE" tvg-logo="" group-title="PT - Portugal",PT: SAUDE
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152396
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS" tvg-logo="" group-title="PT - Portugal",PT: SIC CARAS
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152397
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS FHD" tvg-logo="" group-title="PT - Portugal",PT: SIC CARAS FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152398
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="" group-title="PT - Portugal",PT: SIC FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152399
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K FHD" tvg-logo="" group-title="PT - Portugal",PT: SIC K FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152400
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Mulher FHD" tvg-logo="" group-title="PT - Portugal",PT: SIC Mulher FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152401
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Noticias FHD" tvg-logo="" group-title="PT - Portugal",PT: SIC Noticias FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152402
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Radical" tvg-logo="" group-title="PT - Portugal",PT: SIC Radical
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152403
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152404
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV 1 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152405
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152406
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV 2 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152407
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV 3
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152408
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV 3 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152409
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV 4
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152410
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV 4 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152411
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV 5
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152412
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV 5 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152413
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV NBA FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152414
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ FHD" tvg-logo="" group-title="PT - Portugal",PT: SPORT TV+ FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152415
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting TV FHD" tvg-logo="" group-title="PT - Portugal",PT: Sporting TV FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152416
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="" group-title="PT - Portugal",PT: SYFY FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152417
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC" tvg-logo="" group-title="PT - Portugal",PT: TLC
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152418
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine 1 FHD" tvg-logo="" group-title="PT - Portugal",PT: TVCine 1 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152419
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine 2 FHD" tvg-logo="" group-title="PT - Portugal",PT: TVCine 2 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152420
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine 3 FHD" tvg-logo="" group-title="PT - Portugal",PT: TVCine 3 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152421
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine 4 FHD" tvg-logo="" group-title="PT - Portugal",PT: TVCine 4 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152422
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24" tvg-logo="" group-title="PT - Portugal",PT: TVI 24
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152423
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="" group-title="PT - Portugal",PT: TVI FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152424
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Ficcao" tvg-logo="" group-title="PT - Portugal",PT: TVI Ficcao
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152425
+#EXTINF:-1 tvg-id="" tvg-name="---=== Spain ===---" tvg-logo="" group-title="ES - Spain",---=== Spain ===---
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152426
+#EXTINF:-1 tvg-id="" tvg-name="[ES] LA1 FHD" tvg-logo="" group-title="ES - Spain",[ES] LA1 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152427
+#EXTINF:-1 tvg-id="" tvg-name="[ES] LA1 HD" tvg-logo="" group-title="ES - Spain",[ES] LA1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152428
+#EXTINF:-1 tvg-id="" tvg-name="[ES] LA2 FHD" tvg-logo="" group-title="ES - Spain",[ES] LA2 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152429
+#EXTINF:-1 tvg-id="" tvg-name="[ES] LA2 HD" tvg-logo="" group-title="ES - Spain",[ES] LA2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152430
+#EXTINF:-1 tvg-id="" tvg-name="[ES] LA Sexta FHD" tvg-logo="" group-title="ES - Spain",[ES] LA Sexta FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152431
+#EXTINF:-1 tvg-id="" tvg-name="[ES] LA Sexta HD" tvg-logo="" group-title="ES - Spain",[ES] LA Sexta HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152432
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Antena 3 FHD" tvg-logo="" group-title="ES - Spain",[ES] Antena 3 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152433
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Antena 3 HD" tvg-logo="" group-title="ES - Spain",[ES] Antena 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152434
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Cuatro FHD" tvg-logo="" group-title="ES - Spain",[ES] Cuatro FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152435
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Telecinco FHD" tvg-logo="" group-title="ES - Spain",[ES] Telecinco FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152436
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Telecinco HD" tvg-logo="" group-title="ES - Spain",[ES] Telecinco HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152437
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Canal #0 FHD" tvg-logo="" group-title="ES - Spain",[ES] Canal #0 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152438
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Canal #0" tvg-logo="" group-title="ES - Spain",[ES] Canal #0
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152439
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Viajar FHD" tvg-logo="" group-title="ES - Spain",[ES] Viajar FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152440
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Toros HD" tvg-logo="" group-title="ES - Spain",[ES] Toros HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152441
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Toros" tvg-logo="" group-title="ES - Spain",[ES] Toros
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152442
+#EXTINF:-1 tvg-id="" tvg-name="[ES] A&E" tvg-logo="" group-title="ES - Spain",[ES] A&E
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152443
+#EXTINF:-1 tvg-id="" tvg-name="[ES] AXN HD" tvg-logo="" group-title="ES - Spain",[ES] AXN HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152444
+#EXTINF:-1 tvg-id="" tvg-name="[ES] AXN" tvg-logo="" group-title="ES - Spain",[ES] AXN
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152445
+#EXTINF:-1 tvg-id="" tvg-name="[ES] AXN White FHD" tvg-logo="" group-title="ES - Spain",[ES] AXN White FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152446
+#EXTINF:-1 tvg-id="" tvg-name="[ES] AXN White" tvg-logo="" group-title="ES - Spain",[ES] AXN White
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152447
+#EXTINF:-1 tvg-id="" tvg-name="[ES] AMC FHD" tvg-logo="" group-title="ES - Spain",[ES] AMC FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152448
+#EXTINF:-1 tvg-id="" tvg-name="[ES] SyFy FHD" tvg-logo="" group-title="ES - Spain",[ES] SyFy FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152449
+#EXTINF:-1 tvg-id="" tvg-name="[ES] SyFy" tvg-logo="" group-title="ES - Spain",[ES] SyFy
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152450
+#EXTINF:-1 tvg-id="" tvg-name="[ES] FOX FHD" tvg-logo="" group-title="ES - Spain",[ES] FOX FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152451
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Fox" tvg-logo="" group-title="ES - Spain",[ES] Fox
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152452
+#EXTINF:-1 tvg-id="" tvg-name="[ES] FOX Life FHD" tvg-logo="" group-title="ES - Spain",[ES] FOX Life FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152453
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Fox Life" tvg-logo="" group-title="ES - Spain",[ES] Fox Life
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152454
+#EXTINF:-1 tvg-id="" tvg-name="[ES] TNT FHD" tvg-logo="" group-title="ES - Spain",[ES] TNT FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152455
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Neox TV FHD" tvg-logo="" group-title="ES - Spain",[ES] Neox TV FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152456
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Neox TV" tvg-logo="" group-title="ES - Spain",[ES] Neox TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152457
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Neox TV HD" tvg-logo="" group-title="ES - Spain",[ES] Neox TV HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152458
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Dkiss HD" tvg-logo="" group-title="ES - Spain",[ES] Dkiss HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152459
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Mega FHD" tvg-logo="" group-title="ES - Spain",[ES] Mega FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152460
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Mega HD" tvg-logo="" group-title="ES - Spain",[ES] Mega HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152461
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Mega" tvg-logo="" group-title="ES - Spain",[ES] Mega
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152462
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Cosmo FHD" tvg-logo="" group-title="ES - Spain",[ES] Cosmo FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152463
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Cosmopolitan HD" tvg-logo="" group-title="ES - Spain",[ES] Cosmopolitan HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152464
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Calle 13 HD" tvg-logo="" group-title="ES - Spain",[ES] Calle 13 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152465
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Comedy Central HD" tvg-logo="" group-title="ES - Spain",[ES] Comedy Central HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152466
+#EXTINF:-1 tvg-id="" tvg-name="[ES] A3 Series" tvg-logo="" group-title="ES - Spain",[ES] A3 Series
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152467
+#EXTINF:-1 tvg-id="" tvg-name="[ES] 24 Horas" tvg-logo="" group-title="ES - Spain",[ES] 24 Horas
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152468
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Non Stop People" tvg-logo="" group-title="ES - Spain",[ES] Non Stop People
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152469
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Nova" tvg-logo="" group-title="ES - Spain",[ES] Nova
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152470
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Canal Sur HD" tvg-logo="" group-title="ES - Spain",[ES] Canal Sur HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152471
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Divinity" tvg-logo="" group-title="ES - Spain",[ES] Divinity
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152472
+#EXTINF:-1 tvg-id="" tvg-name="[ES] FDF" tvg-logo="" group-title="ES - Spain",[ES] FDF
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152473
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Energy" tvg-logo="" group-title="ES - Spain",[ES] Energy
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152474
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Taquilla 1 HD" tvg-logo="" group-title="ES - Spain",[ES] Taquilla 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152475
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Taquilla 2 HD" tvg-logo="" group-title="ES - Spain",[ES] Taquilla 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152476
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Taquilla 3 HD" tvg-logo="" group-title="ES - Spain",[ES] Taquilla 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152477
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Taquilla 4 HD" tvg-logo="" group-title="ES - Spain",[ES] Taquilla 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152478
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Taquilla 5 HD" tvg-logo="" group-title="ES - Spain",[ES] Taquilla 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152479
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Taquilla 6 HD" tvg-logo="" group-title="ES - Spain",[ES] Taquilla 6 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152480
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Taquilla 7 HD" tvg-logo="" group-title="ES - Spain",[ES] Taquilla 7 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152481
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Taquilla 8 HD" tvg-logo="" group-title="ES - Spain",[ES] Taquilla 8 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152482
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Paramount Channel" tvg-logo="" group-title="ES - Spain",[ES] Paramount Channel
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152483
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Hollywood" tvg-logo="" group-title="ES - Spain",[ES] Hollywood
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152484
+#EXTINF:-1 tvg-id="" tvg-name="[ES] TCM" tvg-logo="" group-title="ES - Spain",[ES] TCM
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152485
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Ten" tvg-logo="" group-title="ES - Spain",[ES] Ten
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152486
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Caza y Pesca HD" tvg-logo="" group-title="ES - Spain",[ES] Caza y Pesca HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152487
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Iberalia" tvg-logo="" group-title="ES - Spain",[ES] Iberalia
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152488
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Discovery Channel" tvg-logo="" group-title="ES - Spain",[ES] Discovery Channel
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152489
+#EXTINF:-1 tvg-id="" tvg-name="[ES] National Geographic FHD" tvg-logo="" group-title="ES - Spain",[ES] National Geographic FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152490
+#EXTINF:-1 tvg-id="" tvg-name="[ES] National Geographic HD" tvg-logo="" group-title="ES - Spain",[ES] National Geographic HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152491
+#EXTINF:-1 tvg-id="" tvg-name="[ES] National Geographic" tvg-logo="" group-title="ES - Spain",[ES] National Geographic
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152492
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Nat Geo Wild" tvg-logo="" group-title="ES - Spain",[ES] Nat Geo Wild
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152493
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Historia" tvg-logo="" group-title="ES - Spain",[ES] Historia
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152494
+#EXTINF:-1 tvg-id="" tvg-name="[ES] DeCasa" tvg-logo="" group-title="ES - Spain",[ES] DeCasa
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152495
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Canal Cocina" tvg-logo="" group-title="ES - Spain",[ES] Canal Cocina
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152496
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Crime & Investigation" tvg-logo="" group-title="ES - Spain",[ES] Crime & Investigation
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152497
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Discovery Dmax" tvg-logo="" group-title="ES - Spain",[ES] Discovery Dmax
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152498
+#EXTINF:-1 tvg-id="" tvg-name="[ES] DW" tvg-logo="" group-title="ES - Spain",[ES] DW
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152499
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Disney Channel FHD" tvg-logo="" group-title="ES - Spain",[ES] Disney Channel FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152500
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Disney Junior" tvg-logo="" group-title="ES - Spain",[ES] Disney Junior
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152501
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Disney XD" tvg-logo="" group-title="ES - Spain",[ES] Disney XD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152502
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Nickelodeon FHD" tvg-logo="" group-title="ES - Spain",[ES] Nickelodeon FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152503
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Nick Jr." tvg-logo="" group-title="ES - Spain",[ES] Nick Jr.
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152504
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Mezzo HD" tvg-logo="" group-title="ES - Spain",[ES] Mezzo HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152505
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Baby TV" tvg-logo="" group-title="ES - Spain",[ES] Baby TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152506
+#EXTINF:-1 tvg-id="" tvg-name="[ES] BOING" tvg-logo="" group-title="ES - Spain",[ES] BOING
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152507
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Clan TVE" tvg-logo="" group-title="ES - Spain",[ES] Clan TVE
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152508
+#EXTINF:-1 tvg-id="" tvg-name="[ES] TV Galicia" tvg-logo="" group-title="ES - Spain",[ES] TV Galicia
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152509
+#EXTINF:-1 tvg-id="" tvg-name="[ES] TV3 Catalunya HD" tvg-logo="" group-title="ES - Spain",[ES] TV3 Catalunya HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152510
+#EXTINF:-1 tvg-id="" tvg-name="[ES] TV 3 Catalunya" tvg-logo="" group-title="ES - Spain",[ES] TV 3 Catalunya
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152511
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Andalucia FHD" tvg-logo="" group-title="ES - Spain",[ES] Andalucia FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152512
+#EXTINF:-1 tvg-id="" tvg-name="[ES] 13 TV" tvg-logo="" group-title="ES - Spain",[ES] 13 TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152513
+#EXTINF:-1 tvg-id="" tvg-name="[ES] 8TV Madrid" tvg-logo="" group-title="ES - Spain",[ES] 8TV Madrid
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152514
+#EXTINF:-1 tvg-id="" tvg-name="[ES] RTVA" tvg-logo="" group-title="ES - Spain",[ES] RTVA
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152515
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Navarra TV" tvg-logo="" group-title="ES - Spain",[ES] Navarra TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152516
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Red Advenir" tvg-logo="" group-title="ES - Spain",[ES] Red Advenir
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152517
+#EXTINF:-1 tvg-id="" tvg-name="[ES] De Casa" tvg-logo="" group-title="ES - Spain",[ES] De Casa
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152518
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Cuatro HD" tvg-logo="" group-title="ES - Spain",[ES] Cuatro HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152519
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Odisea TV" tvg-logo="" group-title="ES - Spain",[ES] Odisea TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152520
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Sundance TV" tvg-logo="" group-title="ES - Spain",[ES] Sundance TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152521
+#EXTINF:-1 tvg-id="" tvg-name="[ES] TVE Clan" tvg-logo="" group-title="ES - Spain",[ES] TVE Clan
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152522
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Caza y Pesca FHD" tvg-logo="" group-title="ES - Spain",[ES] Caza y Pesca FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152523
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Canal Panda" tvg-logo="" group-title="ES - Spain",[ES] Canal Panda
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152524
+#EXTINF:-1 tvg-id="" tvg-name="[ES] beIN La Liga FHD" tvg-logo="" group-title="ES - Spain",[ES] beIN La Liga FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152525
+#EXTINF:-1 tvg-id="" tvg-name="[ES] beIN La Liga (Backup)" tvg-logo="" group-title="ES - Spain",[ES] beIN La Liga (Backup)
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152526
+#EXTINF:-1 tvg-id="" tvg-name="[ES] La Liga TV FHD" tvg-logo="" group-title="ES - Spain",[ES] La Liga TV FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152527
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Bein Sports FHD" tvg-logo="" group-title="ES - Spain",[ES] Bein Sports FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152528
+#EXTINF:-1 tvg-id="" tvg-name="[ES] beIN Sports HD" tvg-logo="" group-title="ES - Spain",[ES] beIN Sports HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152529
+#EXTINF:-1 tvg-id="" tvg-name="[ES] M.Liga de Campeones HD" tvg-logo="" group-title="ES - Spain",[ES] M.Liga de Campeones HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152530
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar LaLiga HD" tvg-logo="" group-title="ES - Spain",[ES] Movistar LaLiga HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152531
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar MotoGP FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistar MotoGP FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152532
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar MotoGP HD" tvg-logo="" group-title="ES - Spain",[ES] Movistar MotoGP HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152533
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar F1 FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistar F1 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152534
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Golf FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Golf FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152535
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Gol TV" tvg-logo="" group-title="ES - Spain",[ES] Gol TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152536
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Teledeporte" tvg-logo="" group-title="ES - Spain",[ES] Teledeporte
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152537
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Real Madrid Channel" tvg-logo="" group-title="ES - Spain",[ES] Real Madrid Channel
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152538
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Barca TV" tvg-logo="" group-title="ES - Spain",[ES] Barca TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152539
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Eurosport 1" tvg-logo="" group-title="ES - Spain",[ES] Eurosport 1
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152540
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Eurosport 2" tvg-logo="" group-title="ES - Spain",[ES] Eurosport 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152541
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="" group-title="ES - Spain",M. LaLiga HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152542
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Series FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Series FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152543
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Series HD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Series HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152544
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Series" tvg-logo="" group-title="ES - Spain",[ES] Movistar Series
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152545
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Series Xtra FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Series Xtra FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152546
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Series Xtra HD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Series Xtra HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152547
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Series Xtra" tvg-logo="" group-title="ES - Spain",[ES] Movistar Series Xtra
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152548
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Xtra FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Xtra FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152549
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Xtra HD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Xtra HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152550
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Accion FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Accion FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152551
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Accion HD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Accion HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152552
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Accion" tvg-logo="" group-title="ES - Spain",[ES] Movistar Accion
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152553
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Comedia FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Comedia FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152554
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Comedia HD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Comedia HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152555
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistarternos FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistarternos FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152556
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistartrenos FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistartrenos FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152557
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistartrenos HD" tvg-logo="" group-title="ES - Spain",[ES] Movistartrenos HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152558
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistartrenos" tvg-logo="" group-title="ES - Spain",[ES] Movistartrenos
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152559
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Deportes FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Deportes FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152560
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Deportes HD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Deportes HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152561
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Deportes 2 FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Deportes 2 FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152562
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Deportes 2 HD" tvg-logo="" group-title="ES - Spain",[ES] Movistar Deportes 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152563
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Deportes 2" tvg-logo="" group-title="ES - Spain",[ES] Movistar Deportes 2
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152564
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar DCine FHD" tvg-logo="" group-title="ES - Spain",[ES] Movistar DCine FHD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152565
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Cine" tvg-logo="" group-title="ES - Spain",[ES] Movistar Cine
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152566
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Movistar Portada" tvg-logo="" group-title="ES - Spain",[ES] Movistar Portada
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152567
+#EXTINF:-1 tvg-id="" tvg-name="---=== Switzerland ===---" tvg-logo="" group-title="CHE - Switzerland",---=== Switzerland ===---
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152568
+#EXTINF:-1 tvg-id="" tvg-name="[CH] 3  HD" tvg-logo="" group-title="CHE - Switzerland",[CH] 3  HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152569
+#EXTINF:-1 tvg-id="" tvg-name="[CH] 4  HD" tvg-logo="" group-title="CHE - Switzerland",[CH] 4  HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152570
+#EXTINF:-1 tvg-id="" tvg-name="[CH] 5  HD" tvg-logo="" group-title="CHE - Switzerland",[CH] 5  HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152571
+#EXTINF:-1 tvg-id="" tvg-name="[CH] PULS 8 HD" tvg-logo="" group-title="CHE - Switzerland",[CH] PULS 8 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152572
+#EXTINF:-1 tvg-id="" tvg-name="[CH] ROUGE TV" tvg-logo="" group-title="CHE - Switzerland",[CH] ROUGE TV
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152573
+#EXTINF:-1 tvg-id="" tvg-name="[CH] RSI LA 1 HD" tvg-logo="" group-title="CHE - Switzerland",[CH] RSI LA 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152574
+#EXTINF:-1 tvg-id="" tvg-name="[CH] RSI LA 2 HD" tvg-logo="" group-title="CHE - Switzerland",[CH] RSI LA 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152575
+#EXTINF:-1 tvg-id="" tvg-name="[CH] RTS DEUX" tvg-logo="" group-title="CHE - Switzerland",[CH] RTS DEUX
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152576
+#EXTINF:-1 tvg-id="" tvg-name="[CH] RTS UN" tvg-logo="" group-title="CHE - Switzerland",[CH] RTS UN
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152577
+#EXTINF:-1 tvg-id="" tvg-name="[CH] Teleclub Zoom HD" tvg-logo="" group-title="CHE - Switzerland",[CH] Teleclub Zoom HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152578
+#EXTINF:-1 tvg-id="" tvg-name="[CH] SRF 1 HD" tvg-logo="" group-title="CHE - Switzerland",[CH] SRF 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152579
+#EXTINF:-1 tvg-id="" tvg-name="[CH] SRF 2 HD" tvg-logo="" group-title="CHE - Switzerland",[CH] SRF 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152580
+#EXTINF:-1 tvg-id="" tvg-name="[CH] SRF INFO" tvg-logo="" group-title="CHE - Switzerland",[CH] SRF INFO
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152581
+#EXTINF:-1 tvg-id="" tvg-name="[CH] SRF INFO HD" tvg-logo="" group-title="CHE - Switzerland",[CH] SRF INFO HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152582
+#EXTINF:-1 tvg-id="" tvg-name="[CH] TELE 1 HD" tvg-logo="" group-title="CHE - Switzerland",[CH] TELE 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152583
+#EXTINF:-1 tvg-id="" tvg-name="[CH] Teleclub Action HD" tvg-logo="" group-title="CHE - Switzerland",[CH] Teleclub Action HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152584
+#EXTINF:-1 tvg-id="" tvg-name="[CH] Teleclub Cinema HD" tvg-logo="" group-title="CHE - Switzerland",[CH] Teleclub Cinema HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152585
+#EXTINF:-1 tvg-id="" tvg-name="[CH] Teleclub Emotion HD" tvg-logo="" group-title="CHE - Switzerland",[CH] Teleclub Emotion HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152586
+#EXTINF:-1 tvg-id="" tvg-name="Teleclub Sport 1 HD" tvg-logo="" group-title="CHE - Switzerland",Teleclub Sport 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152587
+#EXTINF:-1 tvg-id="" tvg-name="Teleclub Sport 2 HD" tvg-logo="" group-title="CHE - Switzerland",Teleclub Sport 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152588
+#EXTINF:-1 tvg-id="" tvg-name="[CH] TV 24 HD" tvg-logo="" group-title="CHE - Switzerland",[CH] TV 24 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152589
+#EXTINF:-1 tvg-id="" tvg-name="[CH] TV 25 HD" tvg-logo="" group-title="CHE - Switzerland",[CH] TV 25 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152590
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 1 HD" tvg-logo="" group-title="GE - Sky Select",Sky Select 1 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152591
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 2 HD" tvg-logo="" group-title="GE - Sky Select",Sky Select 2 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152592
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 3 HD" tvg-logo="" group-title="GE - Sky Select",Sky Select 3 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152593
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 4 HD" tvg-logo="" group-title="GE - Sky Select",Sky Select 4 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152594
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 5 HD" tvg-logo="" group-title="GE - Sky Select",Sky Select 5 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152595
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 6 HD" tvg-logo="" group-title="GE - Sky Select",Sky Select 6 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152596
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 7 HD" tvg-logo="" group-title="GE - Sky Select",Sky Select 7 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152597
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 8 HD" tvg-logo="" group-title="GE - Sky Select",Sky Select 8 HD
+http://penaiptv.com:8080/gecicidir12/heraiptv123/152598
